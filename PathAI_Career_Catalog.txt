@@ -1,0 +1,1187 @@
+PathAI — Course Resource List
+
+Technology
+
+Software Engineering
+
+topic: Programming Fundamentals
+url1: https://www.youtube.com/playlist?list=PLxCzCOWd7aiF6yRNI5OHQsnUJQfl7Geqj
+url2: https://www.youtube.com/playlist?list=PLgWOIdHQBEz5VmgyZ4IoByOHidsX4lpVF
+tamil
+url:
+
+topic: Data Structures & Algorithms
+url1: https://www.youtube.com/playlist?list=PLUl4u3cNGP63EdVPNLG3ToM6LaEUuStEY
+url2: https://www.youtube.com/playlist?list=PLZPZq0r_RZON1eaqfafTnEexRzuHbfZX8
+tamil
+url:
+
+topic: Object-Oriented Programming
+url1: https://www.youtube.com/playlist?list=PLrKbff8szzNbfi6uC_4dY6gXmC_Q3J16r
+url2: https://www.youtube.com/playlist?list=PLZPZq0r_RZON1eaqfafTnEexRzuHbfZX8
+tamil
+url:
+
+topic: Git & GitHub
+url1: https://www.youtube.com/playlist?list=PL4cUxeGkcC9goXlvgcebi4fSr6FYO840d
+url2: https://www.youtube.com/playlist?list=PLRqwX-V7Uu6ZiZxtDDRCi6uhfTH4FilpH
+tamil
+url:
+
+topic: Databases
+url1: https://www.youtube.com/playlist?list=PL08903FB7ACA1C2FB
+url2: https://www.youtube.com/playlist?list=PLwGp1waL9t8p5S1821Y_J-jF8Kx1uS6s1
+tamil
+url:
+
+topic: SQL
+url1: https://www.youtube.com/playlist?list=PL9ooVrP1hQOG6DQnOD6ujdCEchaqADfCU
+url2: https://www.youtube.com/playlist?list=PLEiEAq2VkUUKL3yPbn8yWnatjUg0P0I-Z
+tamil
+url:
+
+topic: Operating Systems
+url1: https://www.youtube.com/playlist?list=PL4hV_Krcqz_IZ37zX42KZQfkpMXmAgBJu
+url2: https://www.youtube.com/playlist?list=PL23dd-8zssJDbCZI4Rle3vuQokIAdiDdB
+tamil
+url:
+
+topic: Computer Networks
+url1: https://www.youtube.com/playlist?list=PLDqaio48A246B4Z0p_bM5-gI4H_6V9bB4
+url2: https://www.youtube.com/playlist?list=PLG49S3nxzAnlGHY8BUAXbobo6E45Vn7Hw
+tamil
+url:
+
+topic: Software Engineering
+url1: https://www.youtube.com/playlist?list=PLbRMhDVUMngf8oZRfPmXxv1wR-gR_1d34
+url2: https://www.youtube.com/playlist?list=PLZPZq0r_RZON1eaqfafTnEexRzuHbfZX8
+tamil
+url:
+
+topic: System Design
+url1: https://www.youtube.com/playlist?list=PLMCXHnjXnTnvo6alSjVkgxV-VH6EPyvoX
+url2: https://www.youtube.com/playlist?list=PLCRMIh5yUACbK2tClyOa5eO2Pj3XQ2Wd9
+tamil
+url:
+
+topic: Testing
+url1: https://www.youtube.com/playlist?list=PL55RiY5tL51q41EJ0hYFsV2L55_RKh_5S
+url2: https://www.youtube.com/playlist?list=PLZlA0Gpn_vH-eZz6e66eC2e6d9Yv5F2f2
+tamil
+url:
+
+topic: APIs
+url1: https://www.youtube.com/playlist?list=PLZPZq0r_RZON1eaqfafTnEexRzuHbfZX8
+url2: https://www.youtube.com/playlist?list=PL4cUxeGkcC9jLYyp2Aoh6hcWuxFDX6PBJ
+tamil
+url:
+
+topic: Authentication & Security
+url1: https://www.youtube.com/playlist?list=PL4cUxeGkcC9gksOX3SJ9kce_iWeXA5505
+url2: https://www.youtube.com/playlist?list=PLZPZq0r_RZON1eaqfafTnEexRzuHbfZX8
+tamil
+url:
+
+topic: Deployment
+url1: https://www.youtube.com/playlist?list=PLILLGF-RfqbZ2w0v5479uWp_Xj6W8n5V2
+url2: https://www.youtube.com/playlist?list=PLZPZq0r_RZON1eaqfafTnEexRzuHbfZX8
+tamil
+url:
+
+topic: Software Projects
+url1: https://www.youtube.com/playlist?list=PLZPZq0r_RZON1eaqfafTnEexRzuHbfZX8
+url2: https://www.youtube.com/playlist?list=PL4cUxeGkcC9gZD-Tvwfod2gaISzfRiP9d
+tamil
+url:
+
+Full-Stack Development
+
+topic: HTML
+url1: https://www.youtube.com/playlist?list=PL4cUxeGkcC9ivBf_eKCPIAYXWzLlPAm6G
+url2: https://www.youtube.com/playlist?list=PLZPZq0r_RZON1eaqfafTnEexRzuHbfZX8
+tamil
+url:
+
+topic: CSS
+url1: https://www.youtube.com/playlist?list=PL4cUxeGkcC9ivBf_eKCPIAYXWzLlPAm6G
+url2: https://www.youtube.com/playlist?list=PLZPZq0r_RZON1eaqfafTnEexRzuHbfZX8
+tamil
+url:
+
+topic: JavaScript
+url1: https://www.youtube.com/playlist?list=PL4cUxeGkcC9haFPT7J25Q9GRB_Z53KcZ9
+url2: https://www.youtube.com/playlist?list=PLZPZq0r_RZON1eaqfafTnEexRzuHbfZX8
+tamil
+url:
+
+topic: TypeScript
+url1: https://www.youtube.com/playlist?list=PL4cUxeGkcC9gUgr39Q_yD6v-bSyMwKPUI
+url2: https://www.youtube.com/playlist?list=PLZPZq0r_RZON1eaqfafTnEexRzuHbfZX8
+tamil
+url:
+
+topic: Git & GitHub
+url1: https://www.youtube.com/playlist?list=PL4cUxeGkcC9goXlvgcebi4fSr6FYO840d
+url2: https://www.youtube.com/playlist?list=PLRqwX-V7Uu6ZiZxtDDRCi6uhfTH4FilpH
+tamil
+url:
+
+topic: React
+url1: https://www.youtube.com/playlist?list=PL4cUxeGkcC9gZD-Tvwfod2gaISzfRiP9d
+url2: https://www.youtube.com/playlist?list=PLZPZq0r_RZON1eaqfafTnEexRzuHbfZX8
+tamil
+url:
+
+topic: Next.js
+url1: https://www.youtube.com/playlist?list=PL4cUxeGkcC9hAJ-ARcYq_j0LvdACFPh95
+url2: https://www.youtube.com/playlist?list=PLZPZq0r_RZON1eaqfafTnEexRzuHbfZX8
+tamil
+url:
+
+topic: Backend Development
+url1: https://www.youtube.com/playlist?list=PLZPZq0r_RZON1eaqfafTnEexRzuHbfZX8
+url2: https://www.youtube.com/playlist?list=PL4cUxeGkcC9jLYyp2Aoh6hcWuxFDX6PBJ
+tamil
+url:
+
+topic: REST APIs
+url1: https://www.youtube.com/playlist?list=PLZPZq0r_RZON1eaqfafTnEexRzuHbfZX8
+url2: https://www.youtube.com/playlist?list=PL4cUxeGkcC9jLYyp2Aoh6hcWuxFDX6PBJ
+tamil
+url:
+
+topic: Databases
+url1: https://www.youtube.com/playlist?list=PL08903FB7ACA1C2FB
+url2: https://www.youtube.com/playlist?list=PLwGp1waL9t8p5S1821Y_J-jF8Kx1uS6s1
+tamil
+url:
+
+topic: SQL
+url1: https://www.youtube.com/playlist?list=PL9ooVrP1hQOG6DQnOD6ujdCEchaqADfCU
+url2: https://www.youtube.com/playlist?list=PLEiEAq2VkUUKL3yPbn8yWnatjUg0P0I-Z
+tamil
+url:
+
+topic: Authentication
+url1: https://www.youtube.com/playlist?list=PL4cUxeGkcC9gksOX3SJ9kce_iWeXA5505
+url2: https://www.youtube.com/playlist?list=PLZPZq0r_RZON1eaqfafTnEexRzuHbfZX8
+tamil
+url:
+
+topic: Web Security
+url1: https://www.youtube.com/playlist?list=PLBf0hzazHTGM8n1bV0d-5gJ5y08j12x5a
+url2: https://www.youtube.com/playlist?list=PLZPZq0r_RZON1eaqfafTnEexRzuHbfZX8
+tamil
+url:
+
+topic: Testing
+url1: https://www.youtube.com/playlist?list=PL55RiY5tL51q41EJ0hYFsV2L55_RKh_5S
+url2: https://www.youtube.com/playlist?list=PLZlA0Gpn_vH-eZz6e66eC2e6d9Yv5F2f2
+tamil
+url:
+
+topic: Deployment
+url1: https://www.youtube.com/playlist?list=PLILLGF-RfqbZ2w0v5479uWp_Xj6W8n5V2
+url2: https://www.youtube.com/playlist?list=PLZPZq0r_RZON1eaqfafTnEexRzuHbfZX8
+tamil
+url:
+
+topic: Full-Stack Projects
+url1: https://www.youtube.com/playlist?list=PLZPZq0r_RZON1eaqfafTnEexRzuHbfZX8
+url2: https://www.youtube.com/playlist?list=PL4cUxeGkcC9gZD-Tvwfod2gaISzfRiP9d
+tamil
+url:
+
+Frontend Development
+
+topic: HTML
+url1: https://www.youtube.com/playlist?list=PL4cUxeGkcC9ivBf_eKCPIAYXWzLlPAm6G
+url2: https://www.youtube.com/playlist?list=PLZPZq0r_RZON1eaqfafTnEexRzuHbfZX8
+tamil
+url:
+
+topic: CSS
+url1: https://www.youtube.com/playlist?list=PL4cUxeGkcC9ivBf_eKCPIAYXWzLlPAm6G
+url2: https://www.youtube.com/playlist?list=PLZPZq0r_RZON1eaqfafTnEexRzuHbfZX8
+tamil
+url:
+
+topic: JavaScript
+url1: https://www.youtube.com/playlist?list=PL4cUxeGkcC9haFPT7J25Q9GRB_Z53KcZ9
+url2: https://www.youtube.com/playlist?list=PLZPZq0r_RZON1eaqfafTnEexRzuHbfZX8
+tamil
+url:
+
+topic: TypeScript
+url1: https://www.youtube.com/playlist?list=PL4cUxeGkcC9gUgr39Q_yD6v-bSyMwKPUI
+url2: https://www.youtube.com/playlist?list=PLZPZq0r_RZON1eaqfafTnEexRzuHbfZX8
+tamil
+url:
+
+topic: Git & GitHub
+url1: https://www.youtube.com/playlist?list=PL4cUxeGkcC9goXlvgcebi4fSr6FYO840d
+url2: https://www.youtube.com/playlist?list=PLRqwX-V7Uu6ZiZxtDDRCi6uhfTH4FilpH
+tamil
+url:
+
+topic: React
+url1: https://www.youtube.com/playlist?list=PL4cUxeGkcC9gZD-Tvwfod2gaISzfRiP9d
+url2: https://www.youtube.com/playlist?list=PLZPZq0r_RZON1eaqfafTnEexRzuHbfZX8
+tamil
+url:
+
+topic: State Management
+url1: https://www.youtube.com/playlist?list=PL4cUxeGkcC9iWstfXntcj8f-dFZ4UtlN3
+url2: https://www.youtube.com/playlist?list=PLZPZq0r_RZON1eaqfafTnEexRzuHbfZX8
+tamil
+url:
+
+topic: Next.js
+url1: https://www.youtube.com/playlist?list=PL4cUxeGkcC9hAJ-ARcYq_j0LvdACFPh95
+url2: https://www.youtube.com/playlist?list=PLZPZq0r_RZON1eaqfafTnEexRzuHbfZX8
+tamil
+url:
+
+topic: Web Accessibility
+url1: https://www.youtube.com/playlist?list=PL4cUxeGkcC9hNolXj-zJ4Jv0r2xL29m8x
+url2: https://www.youtube.com/playlist?list=PLZPZq0r_RZON1eaqfafTnEexRzuHbfZX8
+tamil
+url:
+
+topic: Frontend Testing
+url1: https://www.youtube.com/playlist?list=PL55RiY5tL51q41EJ0hYFsV2L55_RKh_5S
+url2: https://www.youtube.com/playlist?list=PLZlA0Gpn_vH-eZz6e66eC2e6d9Yv5F2f2
+tamil
+url:
+
+topic: Performance Optimization
+url1: https://www.youtube.com/playlist?list=PLZPZq0r_RZON1eaqfafTnEexRzuHbfZX8
+url2: https://www.youtube.com/playlist?list=PL4cUxeGkcC9gZD-Tvwfod2gaISzfRiP9d
+tamil
+url:
+
+topic: Deployment
+url1: https://www.youtube.com/playlist?list=PLILLGF-RfqbZ2w0v5479uWp_Xj6W8n5V2
+url2: https://www.youtube.com/playlist?list=PLZPZq0r_RZON1eaqfafTnEexRzuHbfZX8
+tamil
+url:
+
+topic: Frontend Projects
+url1: https://www.youtube.com/playlist?list=PLZPZq0r_RZON1eaqfafTnEexRzuHbfZX8
+url2: https://www.youtube.com/playlist?list=PL4cUxeGkcC9gZD-Tvwfod2gaISzfRiP9d
+tamil
+url:
+
+Backend Development
+
+topic: Programming Fundamentals
+url1: https://www.youtube.com/playlist?list=PLxCzCOWd7aiF6yRNI5OHQsnUJQfl7Geqj
+url2: https://www.youtube.com/playlist?list=PLgWOIdHQBEz5VmgyZ4IoByOHidsX4lpVF
+tamil
+url:
+
+topic: Git & GitHub
+url1: https://www.youtube.com/playlist?list=PL4cUxeGkcC9goXlvgcebi4fSr6FYO840d
+url2: https://www.youtube.com/playlist?list=PLRqwX-V7Uu6ZiZxtDDRCi6uhfTH4FilpH
+tamil
+url:
+
+topic: APIs
+url1: https://www.youtube.com/playlist?list=PLZPZq0r_RZON1eaqfafTnEexRzuHbfZX8
+url2: https://www.youtube.com/playlist?list=PL4cUxeGkcC9jLYyp2Aoh6hcWuxFDX6PBJ
+tamil
+url:
+
+topic: REST
+url1: https://www.youtube.com/playlist?list=PLZPZq0r_RZON1eaqfafTnEexRzuHbfZX8
+url2: https://www.youtube.com/playlist?list=PL4cUxeGkcC9jLYyp2Aoh6hcWuxFDX6PBJ
+tamil
+url:
+
+topic: Databases
+url1: https://www.youtube.com/playlist?list=PL08903FB7ACA1C2FB
+url2: https://www.youtube.com/playlist?list=PLwGp1waL9t8p5S1821Y_J-jF8Kx1uS6s1
+tamil
+url:
+
+topic: SQL
+url1: https://www.youtube.com/playlist?list=PL9ooVrP1hQOG6DQnOD6ujdCEchaqADfCU
+url2: https://www.youtube.com/playlist?list=PLEiEAq2VkUUKL3yPbn8yWnatjUg0P0I-Z
+tamil
+url:
+
+topic: Backend Framework
+url1: https://www.youtube.com/playlist?list=PLZPZq0r_RZON1eaqfafTnEexRzuHbfZX8
+url2: https://www.youtube.com/playlist?list=PL4cUxeGkcC9jLYyp2Aoh6hcWuxFDX6PBJ
+tamil
+url:
+
+topic: Authentication
+url1: https://www.youtube.com/playlist?list=PL4cUxeGkcC9gksOX3SJ9kce_iWeXA5505
+url2: https://www.youtube.com/playlist?list=PLZPZq0r_RZON1eaqfafTnEexRzuHbfZX8
+tamil
+url:
+
+topic: Authorization
+url1: https://www.youtube.com/playlist?list=PL4cUxeGkcC9gksOX3SJ9kce_iWeXA5505
+url2: https://www.youtube.com/playlist?list=PLZPZq0r_RZON1eaqfafTnEexRzuHbfZX8
+tamil
+url:
+
+topic: Web Security
+url1: https://www.youtube.com/playlist?list=PLBf0hzazHTGM8n1bV0d-5gJ5y08j12x5a
+url2: https://www.youtube.com/playlist?list=PLZPZq0r_RZON1eaqfafTnEexRzuHbfZX8
+tamil
+url:
+
+topic: Caching
+url1: https://www.youtube.com/playlist?list=PLZPZq0r_RZON1eaqfafTnEexRzuHbfZX8
+url2: https://www.youtube.com/playlist?list=PLMCXHnjXnTnvo6alSjVkgxV-VH6EPyvoX
+tamil
+url:
+
+topic: Testing
+url1: https://www.youtube.com/playlist?list=PL55RiY5tL51q41EJ0hYFsV2L55_RKh_5S
+url2: https://www.youtube.com/playlist?list=PLZlA0Gpn_vH-eZz6e66eC2e6d9Yv5F2f2
+tamil
+url:
+
+topic: Docker
+url1: https://www.youtube.com/playlist?list=PL4cUxeGkcC9hxjeEtdHFNYMtRnJ5VwV5
+url2: https://www.youtube.com/playlist?list=PLZPZq0r_RZON1eaqfafTnEexRzuHbfZX8
+tamil
+url:
+
+topic: Deployment
+url1: https://www.youtube.com/playlist?list=PLILLGF-RfqbZ2w0v5479uWp_Xj6W8n5V2
+url2: https://www.youtube.com/playlist?list=PLZPZq0r_RZON1eaqfafTnEexRzuHbfZX8
+tamil
+url:
+
+topic: System Design
+url1: https://www.youtube.com/playlist?list=PLMCXHnjXnTnvo6alSjVkgxV-VH6EPyvoX
+url2: https://www.youtube.com/playlist?list=PLCRMIh5yUACbK2tClyOa5eO2Pj3XQ2Wd9
+tamil
+url:
+
+topic: Backend Projects
+url1: https://www.youtube.com/playlist?list=PLZPZq0r_RZON1eaqfafTnEexRzuHbfZX8
+url2: https://www.youtube.com/playlist?list=PL4cUxeGkcC9gZD-Tvwfod2gaISzfRiP9d
+tamil
+url:
+
+Mobile App Development
+
+topic: Programming Fundamentals
+url1: https://www.youtube.com/playlist?list=PLxCzCOWd7aiF6yRNI5OHQsnUJQfl7Geqj
+url2: https://www.youtube.com/playlist?list=PLgWOIdHQBEz5VmgyZ4IoByOHidsX4lpVF
+tamil
+url:
+
+topic: UI Fundamentals
+url1: https://www.youtube.com/playlist?list=PL4cUxeGkcC9ivBf_eKCPIAYXWzLlPAm6G
+url2: https://www.youtube.com/playlist?list=PLZPZq0r_RZON1eaqfafTnEexRzuHbfZX8
+tamil
+url:
+
+topic: Flutter / React Native
+url1: https://www.youtube.com/playlist?list=PL4cUxeGkcC9jLYyp2Aoh6hcWuxFDX6PBJ
+url2: https://www.youtube.com/playlist?list=PLZPZq0r_RZON1eaqfafTnEexRzuHbfZX8
+tamil
+url:
+
+topic: Mobile Navigation
+url1: https://www.youtube.com/playlist?list=PL4cUxeGkcC9jLYyp2Aoh6hcWuxFDX6PBJ
+url2: https://www.youtube.com/playlist?list=PLZPZq0r_RZON1eaqfafTnEexRzuHbfZX8
+tamil
+url:
+
+topic: State Management
+url1: https://www.youtube.com/playlist?list=PL4cUxeGkcC9iWstfXntcj8f-dFZ4UtlN3
+url2: https://www.youtube.com/playlist?list=PLZPZq0r_RZON1eaqfafTnEexRzuHbfZX8
+tamil
+url:
+
+topic: APIs
+url1: https://www.youtube.com/playlist?list=PLZPZq0r_RZON1eaqfafTnEexRzuHbfZX8
+url2: https://www.youtube.com/playlist?list=PL4cUxeGkcC9jLYyp2Aoh6hcWuxFDX6PBJ
+tamil
+url:
+
+topic: Databases
+url1: https://www.youtube.com/playlist?list=PL08903FB7ACA1C2FB
+url2: https://www.youtube.com/playlist?list=PLwGp1waL9t8p5S1821Y_J-jF8Kx1uS6s1
+tamil
+url:
+
+topic: Authentication
+url1: https://www.youtube.com/playlist?list=PL4cUxeGkcC9gksOX3SJ9kce_iWeXA5505
+url2: https://www.youtube.com/playlist?list=PLZPZq0r_RZON1eaqfafTnEexRzuHbfZX8
+tamil
+url:
+
+topic: Local Storage
+url1: https://www.youtube.com/playlist?list=PL4cUxeGkcC9haFPT7J25Q9GRB_Z53KcZ9
+url2: https://www.youtube.com/playlist?list=PLZPZq0r_RZON1eaqfafTnEexRzuHbfZX8
+tamil
+url:
+
+topic: Mobile Security
+url1: https://www.youtube.com/playlist?list=PLBf0hzazHTGM8n1bV0d-5gJ5y08j12x5a
+url2: https://www.youtube.com/playlist?list=PLZPZq0r_RZON1eaqfafTnEexRzuHbfZX8
+tamil
+url:
+
+topic: Testing
+url1: https://www.youtube.com/playlist?list=PL55RiY5tL51q41EJ0hYFsV2L55_RKh_5S
+url2: https://www.youtube.com/playlist?list=PLZlA0Gpn_vH-eZz6e66eC2e6d9Yv5F2f2
+tamil
+url:
+
+topic: App Deployment
+url1: https://www.youtube.com/playlist?list=PLILLGF-RfqbZ2w0v5479uWp_Xj6W8n5V2
+url2: https://www.youtube.com/playlist?list=PLZPZq0r_RZON1eaqfafTnEexRzuHbfZX8
+tamil
+url:
+
+topic: Mobile Projects
+url1: https://www.youtube.com/playlist?list=PLZPZq0r_RZON1eaqfafTnEexRzuHbfZX8
+url2: https://www.youtube.com/playlist?list=PL4cUxeGkcC9gZD-Tvwfod2gaISzfRiP9d
+tamil
+url:
+
+Game Development
+
+topic: Programming Fundamentals
+url1: https://www.youtube.com/playlist?list=PLxCzCOWd7aiF6yRNI5OHQsnUJQfl7Geqj
+url2: https://www.youtube.com/playlist?list=PLgWOIdHQBEz5VmgyZ4IoByOHidsX4lpVF
+tamil
+url:
+
+topic: Game Mathematics
+url1: https://www.youtube.com/playlist?list=PLZPZq0r_RZON1eaqfafTnEexRzuHbfZX8
+url2: https://www.youtube.com/playlist?list=PL4cUxeGkcC9gZD-Tvwfod2gaISzfRiP9d
+tamil
+url:
+
+topic: Game Physics
+url1: https://www.youtube.com/playlist?list=PLZPZq0r_RZON1eaqfafTnEexRzuHbfZX8
+url2: https://www.youtube.com/playlist?list=PL4cUxeGkcC9gZD-Tvwfod2gaISzfRiP9d
+tamil
+url:
+
+topic: Game Engines
+url1: https://www.youtube.com/playlist?list=PLZPZq0r_RZON1eaqfafTnEexRzuHbfZX8
+url2: https://www.youtube.com/playlist?list=PL4cUxeGkcC9gZD-Tvwfod2gaISzfRiP9d
+tamil
+url:
+
+topic: 2D Game Development
+url1: https://www.youtube.com/playlist?list=PLZPZq0r_RZON1eaqfafTnEexRzuHbfZX8
+url2: https://www.youtube.com/playlist?list=PL4cUxeGkcC9gZD-Tvwfod2gaISzfRiP9d
+tamil
+url:
+
+topic: 3D Game Development
+url1: https://www.youtube.com/playlist?list=PLZPZq0r_RZON1eaqfafTnEexRzuHbfZX8
+url2: https://www.youtube.com/playlist?list=PL4cUxeGkcC9gZD-Tvwfod2gaISzfRiP9d
+tamil
+url:
+
+topic: Game AI
+url1: https://www.youtube.com/playlist?list=PLZPZq0r_RZON1eaqfafTnEexRzuHbfZX8
+url2: https://www.youtube.com/playlist?list=PL4cUxeGkcC9gZD-Tvwfod2gaISzfRiP9d
+tamil
+url:
+
+topic: Animation
+url1: https://www.youtube.com/playlist?list=PLZPZq0r_RZON1eaqfafTnEexRzuHbfZX8
+url2: https://www.youtube.com/playlist?list=PL4cUxeGkcC9gZD-Tvwfod2gaISzfRiP9d
+tamil
+url:
+
+topic: Graphics
+url1: https://www.youtube.com/playlist?list=PLZPZq0r_RZON1eaqfafTnEexRzuHbfZX8
+url2: https://www.youtube.com/playlist?list=PL4cUxeGkcC9gZD-Tvwfod2gaISzfRiP9d
+tamil
+url:
+
+topic: Audio
+url1: https://www.youtube.com/playlist?list=PLZPZq0r_RZON1eaqfafTnEexRzuHbfZX8
+url2: https://www.youtube.com/playlist?list=PL4cUxeGkcC9gZD-Tvwfod2gaISzfRiP9d
+tamil
+url:
+
+topic: Game UI
+url1: https://www.youtube.com/playlist?list=PLZPZq0r_RZON1eaqfafTnEexRzuHbfZX8
+url2: https://www.youtube.com/playlist?list=PL4cUxeGkcC9gZD-Tvwfod2gaISzfRiP9d
+tamil
+url:
+
+topic: Optimization
+url1: https://www.youtube.com/playlist?list=PLZPZq0r_RZON1eaqfafTnEexRzuHbfZX8
+url2: https://www.youtube.com/playlist?list=PL4cUxeGkcC9gZD-Tvwfod2gaISzfRiP9d
+tamil
+url:
+
+topic: Game Publishing
+url1: https://www.youtube.com/playlist?list=PLZPZq0r_RZON1eaqfafTnEexRzuHbfZX8
+url2: https://www.youtube.com/playlist?list=PL4cUxeGkcC9gZD-Tvwfod2gaISzfRiP9d
+tamil
+url:
+
+topic: Game Projects
+url1: https://www.youtube.com/playlist?list=PLZPZq0r_RZON1eaqfafTnEexRzuHbfZX8
+url2: https://www.youtube.com/playlist?list=PL4cUxeGkcC9gZD-Tvwfod2gaISzfRiP9d
+tamil
+url:
+
+AI & Data
+
+topic: Python
+url1: https://www.youtube.com/playlist?list=PL-osiE80TeTskrapNbzXhwoFUiLCjGgsm
+url2: https://www.youtube.com/playlist?list=PLZPZq0r_RZON1eaqfafTnEexRzuHbfZX8
+tamil
+url:
+
+topic: NumPy
+url1: https://www.youtube.com/playlist?list=PL-osiE80TeTsWRelOIyfDrishhe7nOT6B
+url2: https://www.youtube.com/playlist?list=PLZPZq0r_RZON1eaqfafTnEexRzuHbfZX8
+tamil
+url:
+
+topic: Pandas
+url1: https://www.youtube.com/playlist?list=PL-osiE80TeTsWRelOIyfDrishhe7nOT6B
+url2: https://www.youtube.com/playlist?list=PLZPZq0r_RZON1eaqfafTnEexRzuHbfZX8
+tamil
+url:
+
+topic: Mathematics
+url1: https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab
+url2: https://www.youtube.com/playlist?list=PLZHQObOWTDOMsr9K-rj53DwVRMYO3t5We
+tamil
+url:
+
+topic: Statistics
+url1: https://www.youtube.com/playlist?list=PL49CF4A321528652D
+url2: https://www.youtube.com/playlist?list=PLZPZq0r_RZON1eaqfafTnEexRzuHbfZX8
+tamil
+url:
+
+topic: SQL
+url1: https://www.youtube.com/playlist?list=PL9ooVrP1hQOG6DQnOD6ujdCEchaqADfCU
+url2: https://www.youtube.com/playlist?list=PLEiEAq2VkUUKL3yPbn8yWnatjUg0P0I-Z
+tamil
+url:
+
+topic: Data Cleaning
+url1: https://www.youtube.com/playlist?list=PL-osiE80TeTsWRelOIyfDrishhe7nOT6B
+url2: https://www.youtube.com/playlist?list=PLZPZq0r_RZON1eaqfafTnEexRzuHbfZX8
+tamil
+url:
+
+topic: Exploratory Data Analysis
+url1: https://www.youtube.com/playlist?list=PL-osiE80TeTsWRelOIyfDrishhe7nOT6B
+url2: https://www.youtube.com/playlist?list=PLZPZq0r_RZON1eaqfafTnEexRzuHbfZX8
+tamil
+url:
+
+topic: Machine Learning
+url1: https://www.youtube.com/playlist?list=PL-osiE80TeTvipOqomVEeZ1HRrcEvtZB_
+url2: https://www.youtube.com/playlist?list=PLZPZq0r_RZON1eaqfafTnEexRzuHbfZX8
+tamil
+url:
+
+topic: Supervised Learning
+url1: https://www.youtube.com/playlist?list=PL-osiE80TeTvipOqomVEeZ1HRrcEvtZB_
+url2: https://www.youtube.com/playlist?list=PLZPZq0r_RZON1eaqfafTnEexRzuHbfZX8
+tamil
+url:
+
+topic: Unsupervised Learning
+url1: https://www.youtube.com/playlist?list=PL-osiE80TeTvipOqomVEeZ1HRrcEvtZB_
+url2: https://www.youtube.com/playlist?list=PLZPZq0r_RZON1eaqfafTnEexRzuHbfZX8
+tamil
+url:
+
+topic: Feature Engineering
+url1: https://www.youtube.com/playlist?list=PL-osiE80TeTvipOqomVEeZ1HRrcEvtZB_
+url2: https://www.youtube.com/playlist?list=PLZPZq0r_RZON1eaqfafTnEexRzuHbfZX8
+tamil
+url:
+
+topic: Model Evaluation
+url1: https://www.youtube.com/playlist?list=PL-osiE80TeTvipOqomVEeZ1HRrcEvtZB_
+url2: https://www.youtube.com/playlist?list=PLZPZq0r_RZON1eaqfafTnEexRzuHbfZX8
+tamil
+url:
+
+topic: Deep Learning
+url1: https://www.youtube.com/playlist?list=PL-osiE80TeTvipOqomVEeZ1HRrcEvtZB_
+url2: https://www.youtube.com/playlist?list=PLZPZq0r_RZON1eaqfafTnEexRzuHbfZX8
+tamil
+url:
+
+topic: Neural Networks
+url1: https://www.youtube.com/playlist?list=PLZHQObOWTDONU6R1_6P2555Z-0g70x
+url2: https://www.youtube.com/playlist?list=PLZPZq0r_RZON1eaqfafTnEexRzuHbfZX8
+tamil
+url:
+
+topic: Computer Vision
+url1: https://www.youtube.com/playlist?list=PLZPZq0r_RZON1eaqfafTnEexRzuHbfZX8
+url2: https://www.youtube.com/playlist?list=PL-osiE80TeTvipOqomVEeZ1HRrcEvtZB_
+tamil
+url:
+
+topic: NLP
+url1: https://www.youtube.com/playlist?list=PL-osiE80TeTvipOqomVEeZ1HRrcEvtZB_
+url2: https://www.youtube.com/playlist?list=PLZPZq0r_RZON1eaqfafTnEexRzuHbfZX8
+tamil
+url:
+
+topic: Model Deployment
+url1: https://www.youtube.com/playlist?list=PLILLGF-RfqbZ2w0v5479uWp_Xj6W8n5V2
+url2: https://www.youtube.com/playlist?list=PLZPZq0r_RZON1eaqfafTnEexRzuHbfZX8
+tamil
+url:
+
+topic: MLOps
+url1: https://www.youtube.com/playlist?list=PLILLGF-RfqbZ2w0v5479uWp_Xj6W8n5V2
+url2: https://www.youtube.com/playlist?list=PLZPZq0r_RZON1eaqfafTnEexRzuHbfZX8
+tamil
+url:
+
+topic: AI/ML Projects
+url1: https://www.youtube.com/playlist?list=PLZPZq0r_RZON1eaqfafTnEexRzuHbfZX8
+url2: https://www.youtube.com/playlist?list=PL4cUxeGkcC9gZD-Tvwfod2gaISzfRiP9d
+tamil
+url:
+
+Cybersecurity
+
+topic: Computer Fundamentals
+url1: https://www.youtube.com/playlist?list=PLDqaio48A246B4Z0p_bM5-gI4H_6V9bB4
+url2: https://www.youtube.com/playlist?list=PLZPZq0r_RZON1eaqfafTnEexRzuHbfZX8
+tamil
+url:
+
+topic: Networking
+url1: https://www.youtube.com/playlist?list=PLDqaio48A246B4Z0p_bM5-gI4H_6V9bB4
+url2: https://www.youtube.com/playlist?list=PLG49S3nxzAnlGHY8BUAXbobo6E45Vn7Hw
+tamil
+url:
+
+topic: Linux
+url1: https://www.youtube.com/playlist?list=PLtK75qxsQaMLZSo7KL-PmiRarU7hrpnwK
+url2: https://www.youtube.com/playlist?list=PLZPZq0r_RZON1eaqfafTnEexRzuHbfZX8
+tamil
+url:
+
+topic: Windows
+url1: https://www.youtube.com/playlist?list=PLDqaio48A246B4Z0p_bM5-gI4H_6V9bB4
+url2: https://www.youtube.com/playlist?list=PLZPZq0r_RZON1eaqfafTnEexRzuHbfZX8
+tamil
+url:
+
+topic: Python
+url1: https://www.youtube.com/playlist?list=PL-osiE80TeTskrapNbzXhwoFUiLCjGgsm
+url2: https://www.youtube.com/playlist?list=PLZPZq0r_RZON1eaqfafTnEexRzuHbfZX8
+tamil
+url:
+
+topic: Bash
+url1: https://www.youtube.com/playlist?list=PLtK75qxsQaMLZSo7KL-PmiRarU7hrpnwK
+url2: https://www.youtube.com/playlist?list=PLZPZq0r_RZON1eaqfafTnEexRzuHbfZX8
+tamil
+url:
+
+topic: Cryptography
+url1: https://www.youtube.com/playlist?list=PLBf0hzazHTGM8n1bV0d-5gJ5y08j12x5a
+url2: https://www.youtube.com/playlist?list=PLZPZq0r_RZON1eaqfafTnEexRzuHbfZX8
+tamil
+url:
+
+topic: Cybersecurity Fundamentals
+url1: https://www.youtube.com/playlist?list=PLBf0hzazHTGM8n1bV0d-5gJ5y08j12x5a
+url2: https://www.youtube.com/playlist?list=PLZPZq0r_RZON1eaqfafTnEexRzuHbfZX8
+tamil
+url:
+
+topic: Web Security
+url1: https://www.youtube.com/playlist?list=PLBf0hzazHTGM8n1bV0d-5gJ5y08j12x5a
+url2: https://www.youtube.com/playlist?list=PLZPZq0r_RZON1eaqfafTnEexRzuHbfZX8
+tamil
+url:
+
+topic: Application Security
+url1: https://www.youtube.com/playlist?list=PLBf0hzazHTGM8n1bV0d-5gJ5y08j12x5a
+url2: https://www.youtube.com/playlist?list=PLZPZq0r_RZON1eaqfafTnEexRzuHbfZX8
+tamil
+url:
+
+topic: Network Security
+url1: https://www.youtube.com/playlist?list=PLDqaio48A246B4Z0p_bM5-gI4H_6V9bB4
+url2: https://www.youtube.com/playlist?list=PLZPZq0r_RZON1eaqfafTnEexRzuHbfZX8
+tamil
+url:
+
+topic: OWASP
+url1: https://www.youtube.com/playlist?list=PLBf0hzazHTGM8n1bV0d-5gJ5y08j12x5a
+url2: https://www.youtube.com/playlist?list=PLZPZq0r_RZON1eaqfafTnEexRzuHbfZX8
+tamil
+url:
+
+topic: Ethical Hacking
+url1: https://www.youtube.com/playlist?list=PLBf0hzazHTGM8n1bV0d-5gJ5y08j12x5a
+url2: https://www.youtube.com/playlist?list=PLZPZq0r_RZON1eaqfafTnEexRzuHbfZX8
+tamil
+url:
+
+topic: Penetration Testing
+url1: https://www.youtube.com/playlist?list=PLBf0hzazHTGM8n1bV0d-5gJ5y08j12x5a
+url2: https://www.youtube.com/playlist?list=PLZPZq0r_RZON1eaqfafTnEexRzuHbfZX8
+tamil
+url:
+
+topic: Digital Forensics
+url1: https://www.youtube.com/playlist?list=PLBf0hzazHTGM8n1bV0d-5gJ5y08j12x5a
+url2: https://www.youtube.com/playlist?list=PLZPZq0r_RZON1eaqfafTnEexRzuHbfZX8
+tamil
+url:
+
+topic: Security Operations
+url1: https://www.youtube.com/playlist?list=PLBf0hzazHTGM8n1bV0d-5gJ5y08j12x5a
+url2: https://www.youtube.com/playlist?list=PLZPZq0r_RZON1eaqfafTnEexRzuHbfZX8
+tamil
+url:
+
+topic: Incident Response
+url1: https://www.youtube.com/playlist?list=PLBf0hzazHTGM8n1bV0d-5gJ5y08j12x5a
+url2: https://www.youtube.com/playlist?list=PLZPZq0r_RZON1eaqfafTnEexRzuHbfZX8
+tamil
+url:
+
+topic: Cloud Security
+url1: https://www.youtube.com/playlist?list=PLILLGF-RfqbZ2w0v5479uWp_Xj6W8n5V2
+url2: https://www.youtube.com/playlist?list=PLZPZq0r_RZON1eaqfafTnEexRzuHbfZX8
+tamil
+url:
+
+topic: CTF Practice
+url1: https://www.youtube.com/playlist?list=PLBf0hzazHTGM8n1bV0d-5gJ5y08j12x5a
+url2: https://www.youtube.com/playlist?list=PLZPZq0r_RZON1eaqfafTnEexRzuHbfZX8
+tamil
+url:
+
+topic: Security Projects
+url1: https://www.youtube.com/playlist?list=PLZPZq0r_RZON1eaqfafTnEexRzuHbfZX8
+url2: https://www.youtube.com/playlist?list=PL4cUxeGkcC9gZD-Tvwfod2gaISzfRiP9d
+tamil
+url:
+
+Cloud & DevOps
+
+topic: Linux
+url1: https://www.youtube.com/playlist?list=PLtK75qxsQaMLZSo7KL-PmiRarU7hrpnwK
+url2: https://www.youtube.com/playlist?list=PLZPZq0r_RZON1eaqfafTnEexRzuHbfZX8
+tamil
+url:
+
+topic: Networking
+url1: https://www.youtube.com/playlist?list=PLDqaio48A246B4Z0p_bM5-gI4H_6V9bB4
+url2: https://www.youtube.com/playlist?list=PLG49S3nxzAnlGHY8BUAXbobo6E45Vn7Hw
+tamil
+url:
+
+topic: Git
+url1: https://www.youtube.com/playlist?list=PL4cUxeGkcC9goXlvgcebi4fSr6FYO840d
+url2: https://www.youtube.com/playlist?list=PLRqwX-V7Uu6ZiZxtDDRCi6uhfTH4FilpH
+tamil
+url:
+
+topic: Bash
+url1: https://www.youtube.com/playlist?list=PLtK75qxsQaMLZSo7KL-PmiRarU7hrpnwK
+url2: https://www.youtube.com/playlist?list=PLZPZq0r_RZON1eaqfafTnEexRzuHbfZX8
+tamil
+url:
+
+topic: Python / Scripting
+url1: https://www.youtube.com/playlist?list=PLZPZq0r_RZON1eaqfafTnEexRzuHbfZX8
+url2: https://www.youtube.com/playlist?list=PL4cUxeGkcC9gZD-Tvwfod2gaISzfRiP9d
+tamil
+url:
+
+topic: Cloud Fundamentals
+url1: https://www.youtube.com/playlist?list=PLZPZq0r_RZON1eaqfafTnEexRzuHbfZX8
+url2: https://www.youtube.com/playlist?list=PL4cUxeGkcC9gZD-Tvwfod2gaISzfRiP9d
+tamil
+url:
+
+topic: AWS / Azure / GCP
+url1: https://www.youtube.com/playlist?list=PLZPZq0r_RZON1eaqfafTnEexRzuHbfZX8
+url2: https://www.youtube.com/playlist?list=PL4cUxeGkcC9gZD-Tvwfod2gaISzfRiP9d
+tamil
+url:
+
+topic: Compute
+url1: https://www.youtube.com/playlist?list=PLZPZq0r_RZON1eaqfafTnEexRzuHbfZX8
+url2: https://www.youtube.com/playlist?list=PL4cUxeGkcC9gZD-Tvwfod2gaISzfRiP9d
+tamil
+url:
+
+topic: Storage
+url1: https://www.youtube.com/playlist?list=PLZPZq0r_RZON1eaqfafTnEexRzuHbfZX8
+url2: https://www.youtube.com/playlist?list=PL4cUxeGkcC9gZD-Tvwfod2gaISzfRiP9d
+tamil
+url:
+
+topic: Cloud Networking
+url1: https://www.youtube.com/playlist?list=PLZPZq0r_RZON1eaqfafTnEexRzuHbfZX8
+url2: https://www.youtube.com/playlist?list=PL4cUxeGkcC9gZD-Tvwfod2gaISzfRiP9d
+tamil
+url:
+
+topic: Databases
+url1: https://www.youtube.com/playlist?list=PL08903FB7ACA1C2FB
+url2: https://www.youtube.com/playlist?list=PLwGp1waL9t8p5S1821Y_J-jF8Kx1uS6s1
+tamil
+url:
+
+topic: IAM
+url1: https://www.youtube.com/playlist?list=PLZPZq0r_RZON1eaqfafTnEexRzuHbfZX8
+url2: https://www.youtube.com/playlist?list=PL4cUxeGkcC9gZD-Tvwfod2gaISzfRiP9d
+tamil
+url:
+
+topic: Docker
+url1: https://www.youtube.com/playlist?list=PL4cUxeGkcC9hxjeEtdHFNYMtRnJ5VwV5
+url2: https://www.youtube.com/playlist?list=PLZPZq0r_RZON1eaqfafTnEexRzuHbfZX8
+tamil
+url:
+
+topic: Kubernetes
+url1: https://www.youtube.com/playlist?list=PL4cUxeGkcC9hxjeEtdHFNYMtRnJ5VwV5
+url2: https://www.youtube.com/playlist?list=PLZPZq0r_RZON1eaqfafTnEexRzuHbfZX8
+tamil
+url:
+
+topic: CI/CD
+url1: https://www.youtube.com/playlist?list=PLILLGF-RfqbZ2w0v5479uWp_Xj6W8n5V2
+url2: https://www.youtube.com/playlist?list=PLZPZq0r_RZON1eaqfafTnEexRzuHbfZX8
+tamil
+url:
+
+topic: Infrastructure as Code
+url1: https://www.youtube.com/playlist?list=PLILLGF-RfqbZ2w0v5479uWp_Xj6W8n5V2
+url2: https://www.youtube.com/playlist?list=PLZPZq0r_RZON1eaqfafTnEexRzuHbfZX8
+tamil
+url:
+
+topic: Terraform
+url1: https://www.youtube.com/playlist?list=PLILLGF-RfqbZ2w0v5479uWp_Xj6W8n5V2
+url2: https://www.youtube.com/playlist?list=PLZPZq0r_RZON1eaqfafTnEexRzuHbfZX8
+tamil
+url:
+
+topic: Monitoring
+url1: https://www.youtube.com/playlist?list=PLILLGF-RfqbZ2w0v5479uWp_Xj6W8n5V2
+url2: https://www.youtube.com/playlist?list=PLZPZq0r_RZON1eaqfafTnEexRzuHbfZX8
+tamil
+url:
+
+topic: Logging
+url1: https://www.youtube.com/playlist?list=PLILLGF-RfqbZ2w0v5479uWp_Xj6W8n5V2
+url2: https://www.youtube.com/playlist?list=PLZPZq0r_RZON1eaqfafTnEexRzuHbfZX8
+tamil
+url:
+
+topic: Cloud Security
+url1: https://www.youtube.com/playlist?list=PLILLGF-RfqbZ2w0v5479uWp_Xj6W8n5V2
+url2: https://www.youtube.com/playlist?list=PLZPZq0r_RZON1eaqfafTnEexRzuHbfZX8
+tamil
+url:
+
+topic: DevOps Projects
+url1: https://www.youtube.com/playlist?list=PLZPZq0r_RZON1eaqfafTnEexRzuHbfZX8
+url2: https://www.youtube.com/playlist?list=PL4cUxeGkcC9gZD-Tvwfod2gaISzfRiP9d
+tamil
+url:
+
+Robotics & Embedded
+
+topic: Mathematics
+url1: https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab
+url2: https://www.youtube.com/playlist?list=PLZHQObOWTDOMsr9K-rj53DwVRMYO3t5We
+tamil
+url:
+
+topic: Physics
+url1: https://www.youtube.com/playlist?list=PLZPZq0r_RZON1eaqfafTnEexRzuHbfZX8
+url2: https://www.youtube.com/playlist?list=PL4cUxeGkcC9gZD-Tvwfod2gaISzfRiP9d
+tamil
+url:
+
+topic: C/C++
+url1: https://www.youtube.com/playlist?list=PLZPZq0r_RZON1eaqfafTnEexRzuHbfZX8
+url2: https://www.youtube.com/playlist?list=PL4cUxeGkcC9gZD-Tvwfod2gaISzfRiP9d
+tamil
+url:
+
+topic: Python
+url1: https://www.youtube.com/playlist?list=PL-osiE80TeTskrapNbzXhwoFUiLCjGgsm
+url2: https://www.youtube.com/playlist?list=PLZPZq0r_RZON1eaqfafTnEexRzuHbfZX8
+tamil
+url:
+
+topic: Electronics
+url1: https://www.youtube.com/playlist?list=PLZPZq0r_RZON1eaqfafTnEexRzuHbfZX8
+url2: https://www.youtube.com/playlist?list=PL4cUxeGkcC9gZD-Tvwfod2gaISzfRiP9d
+tamil
+url:
+
+topic: Sensors
+url1: https://www.youtube.com/playlist?list=PLZPZq0r_RZON1eaqfafTnEexRzuHbfZX8
+url2: https://www.youtube.com/playlist?list=PL4cUxeGkcC9gZD-Tvwfod2gaISzfRiP9d
+tamil
+url:
+
+topic: Microcontrollers
+url1: https://www.youtube.com/playlist?list=PLZPZq0r_RZON1eaqfafTnEexRzuHbfZX8
+url2: https://www.youtube.com/playlist?list=PL4cUxeGkcC9gZD-Tvwfod2gaISzfRiP9d
+tamil
+url:
+
+topic: Embedded Systems
+url1: https://www.youtube.com/playlist?list=PLZPZq0r_RZON1eaqfafTnEexRzuHbfZX8
+url2: https://www.youtube.com/playlist?list=PL4cUxeGkcC9gZD-Tvwfod2gaISzfRiP9d
+tamil
+url:
+
+topic: Control Systems
+url1: https://www.youtube.com/playlist?list=PLZPZq0r_RZON1eaqfafTnEexRzuHbfZX8
+url2: https://www.youtube.com/playlist?list=PL4cUxeGkcC9gZD-Tvwfod2gaISzfRiP9d
+tamil
+url:
+
+topic: Robotics Fundamentals
+url1: https://www.youtube.com/playlist?list=PLZPZq0r_RZON1eaqfafTnEexRzuHbfZX8
+url2: https://www.youtube.com/playlist?list=PL4cUxeGkcC9gZD-Tvwfod2gaISzfRiP9d
+tamil
+url:
+
+topic: ROS / ROS2
+url1: https://www.youtube.com/playlist?list=PLZPZq0r_RZON1eaqfafTnEexRzuHbfZX8
+url2: https://www.youtube.com/playlist?list=PL4cUxeGkcC9gZD-Tvwfod2gaISzfRiP9d
+tamil
+url:
+
+topic: Computer Vision
+url1: https://www.youtube.com/playlist?list=PLZPZq0r_RZON1eaqfafTnEexRzuHbfZX8
+url2: https://www.youtube.com/playlist?list=PL-osiE80TeTvipOqomVEeZ1HRrcEvtZB_
+tamil
+url:
+
+topic: Robot Kinematics
+url1: https://www.youtube.com/playlist?list=PLZPZq0r_RZON1eaqfafTnEexRzuHbfZX8
+url2: https://www.youtube.com/playlist?list=PL4cUxeGkcC9gZD-Tvwfod2gaISzfRiP9d
+tamil
+url:
+
+topic: Robot Dynamics
+url1: https://www.youtube.com/playlist?list=PLZPZq0r_RZON1eaqfafTnEexRzuHbfZX8
+url2: https://www.youtube.com/playlist?list=PL4cUxeGkcC9gZD-Tvwfod2gaISzfRiP9d
+tamil
+url:
+
+topic: Path Planning
+url1: https://www.youtube.com/playlist?list=PLZPZq0r_RZON1eaqfafTnEexRzuHbfZX8
+url2: https://www.youtube.com/playlist?list=PL4cUxeGkcC9gZD-Tvwfod2gaISzfRiP9d
+tamil
+url:
+
+topic: SLAM
+url1: https://www.youtube.com/playlist?list=PLZPZq0r_RZON1eaqfafTnEexRzuHbfZX8
+url2: https://www.youtube.com/playlist?list=PL4cUxeGkcC9gZD-Tvwfod2gaISzfRiP9d
+tamil
+url:
+
+topic: Robot AI
+url1: https://www.youtube.com/playlist?list=PLZPZq0r_RZON1eaqfafTnEexRzuHbfZX8
+url2: https://www.youtube.com/playlist?list=PL4cUxeGkcC9gZD-Tvwfod2gaISzfRiP9d
+tamil
+url:
+
+topic: Firmware
+url1: https://www.youtube.com/playlist?list=PLZPZq0r_RZON1eaqfafTnEexRzuHbfZX8
+url2: https://www.youtube.com/playlist?list=PL4cUxeGkcC9gZD-Tvwfod2gaISzfRiP9d
+tamil
+url:
+
+topic: RTOS
+url1: https://www.youtube.com/playlist?list=PLZPZq0r_RZON1eaqfafTnEexRzuHbfZX8
+url2: https://www.youtube.com/playlist?list=PL4cUxeGkcC9gZD-Tvwfod2gaISzfRiP9d
+tamil
+url:
+
+topic: Embedded Linux
+url1: https://www.youtube.com/playlist?list=PLZPZq0r_RZON1eaqfafTnEexRzuHbfZX8
+url2: https://www.youtube.com/playlist?list=PL4cUxeGkcC9gZD-Tvwfod2gaISzfRiP9d
+tamil
+url:
+
+topic: Robotics Projects
+url1: https://www.youtube.com/playlist?list=PLZPZq0r_RZON1eaqfafTnEexRzuHbfZX8
+url2: https://www.youtube.com/playlist?list=PL4cUxeGkcC9gZD-Tvwfod2gaISzfRiP9d
+tamil
+url:
+
+Emerging & Interdisciplinary
+
+AI Product Manager
+
+topic: Product Management
+url1: https://www.youtube.com/playlist?list=PLZPZq0r_RZON1eaqfafTnEexRzuHbfZX8
+url2: https://www.youtube.com/playlist?list=PL4cUxeGkcC9gZD-Tvwfod2gaISzfRiP9d
+tamil
+url:
+
+topic: AI Fundamentals
+url1: https://www.youtube.com/playlist?list=PLZPZq0r_RZON1eaqfafTnEexRzuHbfZX8
+url2: https://www.youtube.com/playlist?list=PL4cUxeGkcC9gZD-Tvwfod2gaISzfRiP9d
+tamil
+url:
+
+topic: Machine Learning Basics
+url1: https://www.youtube.com/playlist?list=PLZPZq0r_RZON1eaqfafTnEexRzuHbfZX8
+url2: https://www.youtube.com/playlist?list=PL4cUxeGkcC9gZD-Tvwfod2gaISzfRiP9d
+tamil
+url:
+
+topic: Generative AI
+url1: https://www.youtube.com/playlist?list=PLZPZq0r_RZON1eaqfafTnEexRzuHbfZX8
+url2: https://www.youtube.com/playlist?list=PL-osiE80TeTskrapNbzXhwoFUiLCjGgsm
+tamil
+url:
+
+topic: LLMs
+url1: https://www.youtube.com/playlist?list=PLZPZq0r_RZON1eaqfafTnEexRzuHbfZX8
+url2: https://www.youtube.com/playlist?list=PL-osiE80TeTskrapNbzXhwoFUiLCjGgsm
+tamil
+url:
+
+topic: AI Product Strategy
+url1: https://www.youtube.com/playlist?list=PLZPZq0r_RZON1eaqfafTnEexRzuHbfZX8
+url2: https://www.youtube.com/playlist?list=PL4cUxeGkcC9gZD-Tvwfod2gaISzfRiP9d
+tamil
+url:
+
+topic: User Research
+url1: https://www.youtube.com/playlist?list=PLZPZq0r_RZON1eaqfafTnEexRzuHbfZX8
+url2: https://www.youtube.com/playlist?list=PL4cUxeGkcC9gZD-Tvwfod2gaISzfRiP9d
+tamil
+url:
+
+topic: Product Analytics
+url1: https://www.youtube.com/playlist?list=PLZPZq0r_RZON1eaqfafTnEexRzuHbfZX8
+url2: https://www.youtube.com/playlist?list=PL4cUxeGkcC9gZD-Tvwfod2gaISzfRiP9d
+tamil
+url:
+
+topic: AI Ethics
+url1: https://www.youtube.com/playlist?list=PLZPZq0r_RZON1eaqfafTnEexRzuHbfZX8
+url2: https://www.youtube.com/playlist?list=PL-osiE80TeTvipOqomVEeZ1HRrcEvtZB_
+tamil
+url:
+
+topic: AI Evaluation
+url1: https://www.youtube.com/playlist?list=PLZPZq0r_RZON1eaqfafTnEexRzuHbfZX8
+url2: https://www.youtube.com/playlist?list=PL4cUxeGkcC9gZD-Tvwfod2gaISzfRiP9d
+tamil
+url:
+
+topic: AI Product Development
+url1: https://www.youtube.com/playlist?list=PLZPZq0r_RZON1eaqfafTnEexRzuHbfZX8
+url2: https://www.youtube.com/playlist?list=PL4cUxeGkcC9gZD-Tvwfod2gaISzfRiP9d
+tamil
+url:
+
+topic: AI Product Project
+url1: https://www.youtube.com/playlist?list=PLZPZq0r_RZON1eaqfafTnEexRzuHbfZX8
+url2: https://www.youtube.com/playlist?list=PL4cUxeGkcC9gZD-Tvwfod2gaISzfRiP9d
+tamil
+url:
+
+AI Safety Researcher
+
+topic: Mathematics
+url1: https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab
+url2: https://www.youtube.com/playlist?list=PLZHQObOWTDOMsr9K-rj53DwVRMYO3t5We
+tamil
+url:
+
+topic: Probability
+url1: https://www.youtube.com/playlist?list=PLZPZq0r_RZON1eaqfafTnEexRzuHbfZX8
+url2: https://www.youtube.com/playlist?list=PL4cUxeGkcC9gZD-Tvwfod2gaISzfRiP9d
+tamil
+url:
+
+topic: Statistics
+url1: https://www.youtube.com/playlist?list=PL49CF4A321528652D
+url2: https://www.youtube.com/playlist?list=PLZPZq0r_RZON1eaqfafTnEexRzuHbfZX8
+tamil
+url:
+
+topic: Machine Learning
+url1: https://www.youtube.com/playlist?list=PL-osiE80TeTvipOqomVEeZ1HRrcEvtZB_
+url2: https://www.youtube.com/playlist?list=PLZPZq0r_RZON1eaqfafTnEexRzuHbfZX8
+tamil
+url:
+
+topic: Deep Learning
+url1: https://www.youtube.com/playlist?list=PL-osiE80TeTvipOqomVEeZ1HRrcEvtZB_
+url2: https://www.youtube.com/playlist?list=PLZPZq0r_RZON1eaqfafTnEexRzuHbfZX8
+tamil
+url:
+
+topic: Reinforcement Learning
+url1: https://www.youtube.com/playlist?list=PLZPZq0r_RZON1eaqfafTnEexRzuHbfZX8
+url2: https://www.youtube.com/playlist?list=PL4cUxeGkcC9gZD-Tvwfod2gaISzfRiP9d
+tamil
+url:
+
+topic: LLMs
+url1: https://www.youtube.com/playlist?list=PLZPZq0r_RZON1eaqfafTnEexRzuHbfZX8
+url2: https://www.youtube.com/playlist?list=PL-osiE80TeTskrapNbzXhwoFUiLCjGgsm
+tamil
+url:
+
+topic: AI Alignment
+url1: https://www.youtube.com/playlist?list=PLZPZq0r_RZON1eaqfafTnEexRzuHbfZX8
+url2: https://www.youtube.com/playlist?list=PL4cUxeGkcC9gZD-Tvwfod2gaISzfRiP9d
+tamil
+url:
+
+topic: AI Evaluation
+url1: https://www.youtube.com/playlist?list=PLZPZq0r_RZON1eaqfafTnEexRzuHbfZX8
+url2: https://www.youtube.com/playlist?list=PL4cUxeGkcC9gZD-Tvwfod2gaISzfRiP9d
+tamil
+url:
+
+topic: AI Safety
+url1: https://www.youtube.com/playlist?list=PLZPZq0r_RZON1eaqfafTnEexRzuHbfZX8
+url2: https://www.youtube.com/playlist?list=PL-osiE80TeTvipOqomVEeZ1HRrcEvtZB_
+tamil
+url:
+
+topic: Interpretability
+url1: https://www.youtube.com/playlist?list=PLZPZq0r_RZON1eaqfafTnEexRzuHbfZX8
+url2: https://www.youtube.com/playlist?list=PL4cUxeGkcC9gZD-Tvwfod2gaISzfRiP9d
+tamil
+url:
+
+topic: AI Safety Research
+url1: https://www.youtube.com/playlist?list=PLZPZq0r_RZON1eaqfafTnEexRzuHbfZX8
+url2: https://www.youtube.com/playlist?list=PL4cUxeGkcC9gZD-Tvwfod2gaISzfRiP9d
+tamil
+url:

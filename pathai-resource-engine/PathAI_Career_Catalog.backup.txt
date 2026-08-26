@@ -1,0 +1,1187 @@
+PathAI — Course Resource List
+
+Technology
+
+Software Engineering
+
+topic: Programming Fundamentals
+url1:
+url2:
+tamil
+url:
+
+topic: Data Structures & Algorithms
+url1:
+url2:
+tamil
+url:
+
+topic: Object-Oriented Programming
+url1:
+url2:
+tamil
+url:
+
+topic: Git & GitHub
+url1:
+url2:
+tamil
+url:
+
+topic: Databases
+url1:
+url2:
+tamil
+url:
+
+topic: SQL
+url1:
+url2:
+tamil
+url:
+
+topic: Operating Systems
+url1:
+url2:
+tamil
+url:
+
+topic: Computer Networks
+url1:
+url2:
+tamil
+url:
+
+topic: Software Engineering
+url1:
+url2:
+tamil
+url:
+
+topic: System Design
+url1:
+url2:
+tamil
+url:
+
+topic: Testing
+url1:
+url2:
+tamil
+url:
+
+topic: APIs
+url1:
+url2:
+tamil
+url:
+
+topic: Authentication & Security
+url1:
+url2:
+tamil
+url:
+
+topic: Deployment
+url1:
+url2:
+tamil
+url:
+
+topic: Software Projects
+url1:
+url2:
+tamil
+url:
+
+Full-Stack Development
+
+topic: HTML
+url1:
+url2:
+tamil
+url:
+
+topic: CSS
+url1:
+url2:
+tamil
+url:
+
+topic: JavaScript
+url1:
+url2:
+tamil
+url:
+
+topic: TypeScript
+url1:
+url2:
+tamil
+url:
+
+topic: Git & GitHub
+url1:
+url2:
+tamil
+url:
+
+topic: React
+url1:
+url2:
+tamil
+url:
+
+topic: Next.js
+url1:
+url2:
+tamil
+url:
+
+topic: Backend Development
+url1:
+url2:
+tamil
+url:
+
+topic: REST APIs
+url1:
+url2:
+tamil
+url:
+
+topic: Databases
+url1:
+url2:
+tamil
+url:
+
+topic: SQL
+url1:
+url2:
+tamil
+url:
+
+topic: Authentication
+url1:
+url2:
+tamil
+url:
+
+topic: Web Security
+url1:
+url2:
+tamil
+url:
+
+topic: Testing
+url1:
+url2:
+tamil
+url:
+
+topic: Deployment
+url1:
+url2:
+tamil
+url:
+
+topic: Full-Stack Projects
+url1:
+url2:
+tamil
+url:
+
+Frontend Development
+
+topic: HTML
+url1:
+url2:
+tamil
+url:
+
+topic: CSS
+url1:
+url2:
+tamil
+url:
+
+topic: JavaScript
+url1:
+url2:
+tamil
+url:
+
+topic: TypeScript
+url1:
+url2:
+tamil
+url:
+
+topic: Git & GitHub
+url1:
+url2:
+tamil
+url:
+
+topic: React
+url1:
+url2:
+tamil
+url:
+
+topic: State Management
+url1:
+url2:
+tamil
+url:
+
+topic: Next.js
+url1:
+url2:
+tamil
+url:
+
+topic: Web Accessibility
+url1:
+url2:
+tamil
+url:
+
+topic: Frontend Testing
+url1:
+url2:
+tamil
+url:
+
+topic: Performance Optimization
+url1:
+url2:
+tamil
+url:
+
+topic: Deployment
+url1:
+url2:
+tamil
+url:
+
+topic: Frontend Projects
+url1:
+url2:
+tamil
+url:
+
+Backend Development
+
+topic: Programming Fundamentals
+url1:
+url2:
+tamil
+url:
+
+topic: Git & GitHub
+url1:
+url2:
+tamil
+url:
+
+topic: APIs
+url1:
+url2:
+tamil
+url:
+
+topic: REST
+url1:
+url2:
+tamil
+url:
+
+topic: Databases
+url1:
+url2:
+tamil
+url:
+
+topic: SQL
+url1:
+url2:
+tamil
+url:
+
+topic: Backend Framework
+url1:
+url2:
+tamil
+url:
+
+topic: Authentication
+url1:
+url2:
+tamil
+url:
+
+topic: Authorization
+url1:
+url2:
+tamil
+url:
+
+topic: Web Security
+url1:
+url2:
+tamil
+url:
+
+topic: Caching
+url1:
+url2:
+tamil
+url:
+
+topic: Testing
+url1:
+url2:
+tamil
+url:
+
+topic: Docker
+url1:
+url2:
+tamil
+url:
+
+topic: Deployment
+url1:
+url2:
+tamil
+url:
+
+topic: System Design
+url1:
+url2:
+tamil
+url:
+
+topic: Backend Projects
+url1:
+url2:
+tamil
+url:
+
+Mobile App Development
+
+topic: Programming Fundamentals
+url1:
+url2:
+tamil
+url:
+
+topic: UI Fundamentals
+url1:
+url2:
+tamil
+url:
+
+topic: Flutter / React Native
+url1:
+url2:
+tamil
+url:
+
+topic: Mobile Navigation
+url1:
+url2:
+tamil
+url:
+
+topic: State Management
+url1:
+url2:
+tamil
+url:
+
+topic: APIs
+url1:
+url2:
+tamil
+url:
+
+topic: Databases
+url1:
+url2:
+tamil
+url:
+
+topic: Authentication
+url1:
+url2:
+tamil
+url:
+
+topic: Local Storage
+url1:
+url2:
+tamil
+url:
+
+topic: Mobile Security
+url1:
+url2:
+tamil
+url:
+
+topic: Testing
+url1:
+url2:
+tamil
+url:
+
+topic: App Deployment
+url1:
+url2:
+tamil
+url:
+
+topic: Mobile Projects
+url1:
+url2:
+tamil
+url:
+
+Game Development
+
+topic: Programming Fundamentals
+url1:
+url2:
+tamil
+url:
+
+topic: Game Mathematics
+url1:
+url2:
+tamil
+url:
+
+topic: Game Physics
+url1:
+url2:
+tamil
+url:
+
+topic: Game Engines
+url1:
+url2:
+tamil
+url:
+
+topic: 2D Game Development
+url1:
+url2:
+tamil
+url:
+
+topic: 3D Game Development
+url1:
+url2:
+tamil
+url:
+
+topic: Game AI
+url1:
+url2:
+tamil
+url:
+
+topic: Animation
+url1:
+url2:
+tamil
+url:
+
+topic: Graphics
+url1:
+url2:
+tamil
+url:
+
+topic: Audio
+url1:
+url2:
+tamil
+url:
+
+topic: Game UI
+url1:
+url2:
+tamil
+url:
+
+topic: Optimization
+url1:
+url2:
+tamil
+url:
+
+topic: Game Publishing
+url1:
+url2:
+tamil
+url:
+
+topic: Game Projects
+url1:
+url2:
+tamil
+url:
+
+AI & Data
+
+topic: Python
+url1:
+url2:
+tamil
+url:
+
+topic: NumPy
+url1:
+url2:
+tamil
+url:
+
+topic: Pandas
+url1:
+url2:
+tamil
+url:
+
+topic: Mathematics
+url1:
+url2:
+tamil
+url:
+
+topic: Statistics
+url1:
+url2:
+tamil
+url:
+
+topic: SQL
+url1:
+url2:
+tamil
+url:
+
+topic: Data Cleaning
+url1:
+url2:
+tamil
+url:
+
+topic: Exploratory Data Analysis
+url1:
+url2:
+tamil
+url:
+
+topic: Machine Learning
+url1:
+url2:
+tamil
+url:
+
+topic: Supervised Learning
+url1:
+url2:
+tamil
+url:
+
+topic: Unsupervised Learning
+url1:
+url2:
+tamil
+url:
+
+topic: Feature Engineering
+url1:
+url2:
+tamil
+url:
+
+topic: Model Evaluation
+url1:
+url2:
+tamil
+url:
+
+topic: Deep Learning
+url1:
+url2:
+tamil
+url:
+
+topic: Neural Networks
+url1:
+url2:
+tamil
+url:
+
+topic: Computer Vision
+url1:
+url2:
+tamil
+url:
+
+topic: NLP
+url1:
+url2:
+tamil
+url:
+
+topic: Model Deployment
+url1:
+url2:
+tamil
+url:
+
+topic: MLOps
+url1:
+url2:
+tamil
+url:
+
+topic: AI/ML Projects
+url1:
+url2:
+tamil
+url:
+
+Cybersecurity
+
+topic: Computer Fundamentals
+url1:
+url2:
+tamil
+url:
+
+topic: Networking
+url1:
+url2:
+tamil
+url:
+
+topic: Linux
+url1:
+url2:
+tamil
+url:
+
+topic: Windows
+url1:
+url2:
+tamil
+url:
+
+topic: Python
+url1:
+url2:
+tamil
+url:
+
+topic: Bash
+url1:
+url2:
+tamil
+url:
+
+topic: Cryptography
+url1:
+url2:
+tamil
+url:
+
+topic: Cybersecurity Fundamentals
+url1:
+url2:
+tamil
+url:
+
+topic: Web Security
+url1:
+url2:
+tamil
+url:
+
+topic: Application Security
+url1:
+url2:
+tamil
+url:
+
+topic: Network Security
+url1:
+url2:
+tamil
+url:
+
+topic: OWASP
+url1:
+url2:
+tamil
+url:
+
+topic: Ethical Hacking
+url1:
+url2:
+tamil
+url:
+
+topic: Penetration Testing
+url1:
+url2:
+tamil
+url:
+
+topic: Digital Forensics
+url1:
+url2:
+tamil
+url:
+
+topic: Security Operations
+url1:
+url2:
+tamil
+url:
+
+topic: Incident Response
+url1:
+url2:
+tamil
+url:
+
+topic: Cloud Security
+url1:
+url2:
+tamil
+url:
+
+topic: CTF Practice
+url1:
+url2:
+tamil
+url:
+
+topic: Security Projects
+url1:
+url2:
+tamil
+url:
+
+Cloud & DevOps
+
+topic: Linux
+url1:
+url2:
+tamil
+url:
+
+topic: Networking
+url1:
+url2:
+tamil
+url:
+
+topic: Git
+url1:
+url2:
+tamil
+url:
+
+topic: Bash
+url1:
+url2:
+tamil
+url:
+
+topic: Python / Scripting
+url1:
+url2:
+tamil
+url:
+
+topic: Cloud Fundamentals
+url1:
+url2:
+tamil
+url:
+
+topic: AWS / Azure / GCP
+url1:
+url2:
+tamil
+url:
+
+topic: Compute
+url1:
+url2:
+tamil
+url:
+
+topic: Storage
+url1:
+url2:
+tamil
+url:
+
+topic: Cloud Networking
+url1:
+url2:
+tamil
+url:
+
+topic: Databases
+url1:
+url2:
+tamil
+url:
+
+topic: IAM
+url1:
+url2:
+tamil
+url:
+
+topic: Docker
+url1:
+url2:
+tamil
+url:
+
+topic: Kubernetes
+url1:
+url2:
+tamil
+url:
+
+topic: CI/CD
+url1:
+url2:
+tamil
+url:
+
+topic: Infrastructure as Code
+url1:
+url2:
+tamil
+url:
+
+topic: Terraform
+url1:
+url2:
+tamil
+url:
+
+topic: Monitoring
+url1:
+url2:
+tamil
+url:
+
+topic: Logging
+url1:
+url2:
+tamil
+url:
+
+topic: Cloud Security
+url1:
+url2:
+tamil
+url:
+
+topic: DevOps Projects
+url1:
+url2:
+tamil
+url:
+
+Robotics & Embedded
+
+topic: Mathematics
+url1:
+url2:
+tamil
+url:
+
+topic: Physics
+url1:
+url2:
+tamil
+url:
+
+topic: C/C++
+url1:
+url2:
+tamil
+url:
+
+topic: Python
+url1:
+url2:
+tamil
+url:
+
+topic: Electronics
+url1:
+url2:
+tamil
+url:
+
+topic: Sensors
+url1:
+url2:
+tamil
+url:
+
+topic: Microcontrollers
+url1:
+url2:
+tamil
+url:
+
+topic: Embedded Systems
+url1:
+url2:
+tamil
+url:
+
+topic: Control Systems
+url1:
+url2:
+tamil
+url:
+
+topic: Robotics Fundamentals
+url1:
+url2:
+tamil
+url:
+
+topic: ROS / ROS2
+url1:
+url2:
+tamil
+url:
+
+topic: Computer Vision
+url1:
+url2:
+tamil
+url:
+
+topic: Robot Kinematics
+url1:
+url2:
+tamil
+url:
+
+topic: Robot Dynamics
+url1:
+url2:
+tamil
+url:
+
+topic: Path Planning
+url1:
+url2:
+tamil
+url:
+
+topic: SLAM
+url1:
+url2:
+tamil
+url:
+
+topic: Robot AI
+url1:
+url2:
+tamil
+url:
+
+topic: Firmware
+url1:
+url2:
+tamil
+url:
+
+topic: RTOS
+url1:
+url2:
+tamil
+url:
+
+topic: Embedded Linux
+url1:
+url2:
+tamil
+url:
+
+topic: Robotics Projects
+url1:
+url2:
+tamil
+url:
+
+Emerging & Interdisciplinary
+
+AI Product Manager
+
+topic: Product Management
+url1:
+url2:
+tamil
+url:
+
+topic: AI Fundamentals
+url1:
+url2:
+tamil
+url:
+
+topic: Machine Learning Basics
+url1:
+url2:
+tamil
+url:
+
+topic: Generative AI
+url1:
+url2:
+tamil
+url:
+
+topic: LLMs
+url1:
+url2:
+tamil
+url:
+
+topic: AI Product Strategy
+url1:
+url2:
+tamil
+url:
+
+topic: User Research
+url1:
+url2:
+tamil
+url:
+
+topic: Product Analytics
+url1:
+url2:
+tamil
+url:
+
+topic: AI Ethics
+url1:
+url2:
+tamil
+url:
+
+topic: AI Evaluation
+url1:
+url2:
+tamil
+url:
+
+topic: AI Product Development
+url1:
+url2:
+tamil
+url:
+
+topic: AI Product Project
+url1:
+url2:
+tamil
+url:
+
+AI Safety Researcher
+
+topic: Mathematics
+url1:
+url2:
+tamil
+url:
+
+topic: Probability
+url1:
+url2:
+tamil
+url:
+
+topic: Statistics
+url1:
+url2:
+tamil
+url:
+
+topic: Machine Learning
+url1:
+url2:
+tamil
+url:
+
+topic: Deep Learning
+url1:
+url2:
+tamil
+url:
+
+topic: Reinforcement Learning
+url1:
+url2:
+tamil
+url:
+
+topic: LLMs
+url1:
+url2:
+tamil
+url:
+
+topic: AI Alignment
+url1:
+url2:
+tamil
+url:
+
+topic: AI Evaluation
+url1:
+url2:
+tamil
+url:
+
+topic: AI Safety
+url1:
+url2:
+tamil
+url:
+
+topic: Interpretability
+url1:
+url2:
+tamil
+url:
+
+topic: AI Safety Research
+url1:
+url2:
+tamil
+url:

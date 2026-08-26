@@ -1,0 +1,5277 @@
+PathAI — Course Resource List
+
+Technology
+
+Software Engineering
+
+topic: Programming Fundamentals
+url1:
+url2:
+tamil
+url:
+
+topic: Data Structures & Algorithms
+url1:
+url2:
+tamil
+url:
+
+topic: Object-Oriented Programming
+url1:
+url2:
+tamil
+url:
+
+topic: Git & GitHub
+url1:
+url2:
+tamil
+url:
+
+topic: Databases
+url1:
+url2:
+tamil
+url:
+
+topic: SQL
+url1:
+url2:
+tamil
+url:
+
+topic: Operating Systems
+url1:
+url2:
+tamil
+url:
+
+topic: Computer Networks
+url1:
+url2:
+tamil
+url:
+
+topic: Software Engineering
+url1:
+url2:
+tamil
+url:
+
+topic: System Design
+url1:
+url2:
+tamil
+url:
+
+topic: Testing
+url1:
+url2:
+tamil
+url:
+
+topic: APIs
+url1:
+url2:
+tamil
+url:
+
+topic: Authentication & Security
+url1:
+url2:
+tamil
+url:
+
+topic: Deployment
+url1:
+url2:
+tamil
+url:
+
+topic: Software Projects
+url1:
+url2:
+tamil
+url:
+
+Full-Stack Development
+
+topic: HTML
+url1:
+url2:
+tamil
+url:
+
+topic: CSS
+url1:
+url2:
+tamil
+url:
+
+topic: JavaScript
+url1:
+url2:
+tamil
+url:
+
+topic: TypeScript
+url1:
+url2:
+tamil
+url:
+
+topic: Git & GitHub
+url1:
+url2:
+tamil
+url:
+
+topic: React
+url1:
+url2:
+tamil
+url:
+
+topic: Next.js
+url1:
+url2:
+tamil
+url:
+
+topic: Backend Development
+url1:
+url2:
+tamil
+url:
+
+topic: REST APIs
+url1:
+url2:
+tamil
+url:
+
+topic: Databases
+url1:
+url2:
+tamil
+url:
+
+topic: SQL
+url1:
+url2:
+tamil
+url:
+
+topic: Authentication
+url1:
+url2:
+tamil
+url:
+
+topic: Web Security
+url1:
+url2:
+tamil
+url:
+
+topic: Testing
+url1:
+url2:
+tamil
+url:
+
+topic: Deployment
+url1:
+url2:
+tamil
+url:
+
+topic: Full-Stack Projects
+url1:
+url2:
+tamil
+url:
+
+Frontend Development
+
+topic: HTML
+url1:
+url2:
+tamil
+url:
+
+topic: CSS
+url1:
+url2:
+tamil
+url:
+
+topic: JavaScript
+url1:
+url2:
+tamil
+url:
+
+topic: TypeScript
+url1:
+url2:
+tamil
+url:
+
+topic: Git & GitHub
+url1:
+url2:
+tamil
+url:
+
+topic: React
+url1:
+url2:
+tamil
+url:
+
+topic: State Management
+url1:
+url2:
+tamil
+url:
+
+topic: Next.js
+url1:
+url2:
+tamil
+url:
+
+topic: Web Accessibility
+url1:
+url2:
+tamil
+url:
+
+topic: Frontend Testing
+url1:
+url2:
+tamil
+url:
+
+topic: Performance Optimization
+url1:
+url2:
+tamil
+url:
+
+topic: Deployment
+url1:
+url2:
+tamil
+url:
+
+topic: Frontend Projects
+url1:
+url2:
+tamil
+url:
+
+Backend Development
+
+topic: Programming Fundamentals
+url1:
+url2:
+tamil
+url:
+
+topic: Git & GitHub
+url1:
+url2:
+tamil
+url:
+
+topic: APIs
+url1:
+url2:
+tamil
+url:
+
+topic: REST
+url1:
+url2:
+tamil
+url:
+
+topic: Databases
+url1:
+url2:
+tamil
+url:
+
+topic: SQL
+url1:
+url2:
+tamil
+url:
+
+topic: Backend Framework
+url1:
+url2:
+tamil
+url:
+
+topic: Authentication
+url1:
+url2:
+tamil
+url:
+
+topic: Authorization
+url1:
+url2:
+tamil
+url:
+
+topic: Web Security
+url1:
+url2:
+tamil
+url:
+
+topic: Caching
+url1:
+url2:
+tamil
+url:
+
+topic: Testing
+url1:
+url2:
+tamil
+url:
+
+topic: Docker
+url1:
+url2:
+tamil
+url:
+
+topic: Deployment
+url1:
+url2:
+tamil
+url:
+
+topic: System Design
+url1:
+url2:
+tamil
+url:
+
+topic: Backend Projects
+url1:
+url2:
+tamil
+url:
+
+Mobile App Development
+
+topic: Programming Fundamentals
+url1:
+url2:
+tamil
+url:
+
+topic: UI Fundamentals
+url1:
+url2:
+tamil
+url:
+
+topic: Flutter / React Native
+url1:
+url2:
+tamil
+url:
+
+topic: Mobile Navigation
+url1:
+url2:
+tamil
+url:
+
+topic: State Management
+url1:
+url2:
+tamil
+url:
+
+topic: APIs
+url1:
+url2:
+tamil
+url:
+
+topic: Databases
+url1:
+url2:
+tamil
+url:
+
+topic: Authentication
+url1:
+url2:
+tamil
+url:
+
+topic: Local Storage
+url1:
+url2:
+tamil
+url:
+
+topic: Mobile Security
+url1:
+url2:
+tamil
+url:
+
+topic: Testing
+url1:
+url2:
+tamil
+url:
+
+topic: App Deployment
+url1:
+url2:
+tamil
+url:
+
+topic: Mobile Projects
+url1:
+url2:
+tamil
+url:
+
+Game Development
+
+topic: Programming Fundamentals
+url1:
+url2:
+tamil
+url:
+
+topic: Game Mathematics
+url1:
+url2:
+tamil
+url:
+
+topic: Game Physics
+url1:
+url2:
+tamil
+url:
+
+topic: Game Engines
+url1:
+url2:
+tamil
+url:
+
+topic: 2D Game Development
+url1:
+url2:
+tamil
+url:
+
+topic: 3D Game Development
+url1:
+url2:
+tamil
+url:
+
+topic: Game AI
+url1:
+url2:
+tamil
+url:
+
+topic: Animation
+url1:
+url2:
+tamil
+url:
+
+topic: Graphics
+url1:
+url2:
+tamil
+url:
+
+topic: Audio
+url1:
+url2:
+tamil
+url:
+
+topic: Game UI
+url1:
+url2:
+tamil
+url:
+
+topic: Optimization
+url1:
+url2:
+tamil
+url:
+
+topic: Game Publishing
+url1:
+url2:
+tamil
+url:
+
+topic: Game Projects
+url1:
+url2:
+tamil
+url:
+
+AI & Data
+
+topic: Python
+url1:
+url2:
+tamil
+url:
+
+topic: NumPy
+url1:
+url2:
+tamil
+url:
+
+topic: Pandas
+url1:
+url2:
+tamil
+url:
+
+topic: Mathematics
+url1:
+url2:
+tamil
+url:
+
+topic: Statistics
+url1:
+url2:
+tamil
+url:
+
+topic: SQL
+url1:
+url2:
+tamil
+url:
+
+topic: Data Cleaning
+url1:
+url2:
+tamil
+url:
+
+topic: Exploratory Data Analysis
+url1:
+url2:
+tamil
+url:
+
+topic: Machine Learning
+url1:
+url2:
+tamil
+url:
+
+topic: Supervised Learning
+url1:
+url2:
+tamil
+url:
+
+topic: Unsupervised Learning
+url1:
+url2:
+tamil
+url:
+
+topic: Feature Engineering
+url1:
+url2:
+tamil
+url:
+
+topic: Model Evaluation
+url1:
+url2:
+tamil
+url:
+
+topic: Deep Learning
+url1:
+url2:
+tamil
+url:
+
+topic: Neural Networks
+url1:
+url2:
+tamil
+url:
+
+topic: Computer Vision
+url1:
+url2:
+tamil
+url:
+
+topic: NLP
+url1:
+url2:
+tamil
+url:
+
+topic: Model Deployment
+url1:
+url2:
+tamil
+url:
+
+topic: MLOps
+url1:
+url2:
+tamil
+url:
+
+topic: AI/ML Projects
+url1:
+url2:
+tamil
+url:
+
+Cybersecurity
+
+topic: Computer Fundamentals
+url1:
+url2:
+tamil
+url:
+
+topic: Networking
+url1:
+url2:
+tamil
+url:
+
+topic: Linux
+url1:
+url2:
+tamil
+url:
+
+topic: Windows
+url1:
+url2:
+tamil
+url:
+
+topic: Python
+url1:
+url2:
+tamil
+url:
+
+topic: Bash
+url1:
+url2:
+tamil
+url:
+
+topic: Cryptography
+url1:
+url2:
+tamil
+url:
+
+topic: Cybersecurity Fundamentals
+url1:
+url2:
+tamil
+url:
+
+topic: Web Security
+url1:
+url2:
+tamil
+url:
+
+topic: Application Security
+url1:
+url2:
+tamil
+url:
+
+topic: Network Security
+url1:
+url2:
+tamil
+url:
+
+topic: OWASP
+url1:
+url2:
+tamil
+url:
+
+topic: Ethical Hacking
+url1:
+url2:
+tamil
+url:
+
+topic: Penetration Testing
+url1:
+url2:
+tamil
+url:
+
+topic: Digital Forensics
+url1:
+url2:
+tamil
+url:
+
+topic: Security Operations
+url1:
+url2:
+tamil
+url:
+
+topic: Incident Response
+url1:
+url2:
+tamil
+url:
+
+topic: Cloud Security
+url1:
+url2:
+tamil
+url:
+
+topic: CTF Practice
+url1:
+url2:
+tamil
+url:
+
+topic: Security Projects
+url1:
+url2:
+tamil
+url:
+
+Cloud & DevOps
+
+topic: Linux
+url1:
+url2:
+tamil
+url:
+
+topic: Networking
+url1:
+url2:
+tamil
+url:
+
+topic: Git
+url1:
+url2:
+tamil
+url:
+
+topic: Bash
+url1:
+url2:
+tamil
+url:
+
+topic: Python / Scripting
+url1:
+url2:
+tamil
+url:
+
+topic: Cloud Fundamentals
+url1:
+url2:
+tamil
+url:
+
+topic: AWS / Azure / GCP
+url1:
+url2:
+tamil
+url:
+
+topic: Compute
+url1:
+url2:
+tamil
+url:
+
+topic: Storage
+url1:
+url2:
+tamil
+url:
+
+topic: Cloud Networking
+url1:
+url2:
+tamil
+url:
+
+topic: Databases
+url1:
+url2:
+tamil
+url:
+
+topic: IAM
+url1:
+url2:
+tamil
+url:
+
+topic: Docker
+url1:
+url2:
+tamil
+url:
+
+topic: Kubernetes
+url1:
+url2:
+tamil
+url:
+
+topic: CI/CD
+url1:
+url2:
+tamil
+url:
+
+topic: Infrastructure as Code
+url1:
+url2:
+tamil
+url:
+
+topic: Terraform
+url1:
+url2:
+tamil
+url:
+
+topic: Monitoring
+url1:
+url2:
+tamil
+url:
+
+topic: Logging
+url1:
+url2:
+tamil
+url:
+
+topic: Cloud Security
+url1:
+url2:
+tamil
+url:
+
+topic: DevOps Projects
+url1:
+url2:
+tamil
+url:
+
+Robotics & Embedded
+
+topic: Mathematics
+url1:
+url2:
+tamil
+url:
+
+topic: Physics
+url1:
+url2:
+tamil
+url:
+
+topic: C/C++
+url1:
+url2:
+tamil
+url:
+
+topic: Python
+url1:
+url2:
+tamil
+url:
+
+topic: Electronics
+url1:
+url2:
+tamil
+url:
+
+topic: Sensors
+url1:
+url2:
+tamil
+url:
+
+topic: Microcontrollers
+url1:
+url2:
+tamil
+url:
+
+topic: Embedded Systems
+url1:
+url2:
+tamil
+url:
+
+topic: Control Systems
+url1:
+url2:
+tamil
+url:
+
+topic: Robotics Fundamentals
+url1:
+url2:
+tamil
+url:
+
+topic: ROS / ROS2
+url1:
+url2:
+tamil
+url:
+
+topic: Computer Vision
+url1:
+url2:
+tamil
+url:
+
+topic: Robot Kinematics
+url1:
+url2:
+tamil
+url:
+
+topic: Robot Dynamics
+url1:
+url2:
+tamil
+url:
+
+topic: Path Planning
+url1:
+url2:
+tamil
+url:
+
+topic: SLAM
+url1:
+url2:
+tamil
+url:
+
+topic: Robot AI
+url1:
+url2:
+tamil
+url:
+
+topic: Firmware
+url1:
+url2:
+tamil
+url:
+
+topic: RTOS
+url1:
+url2:
+tamil
+url:
+
+topic: Embedded Linux
+url1:
+url2:
+tamil
+url:
+
+topic: Robotics Projects
+url1:
+url2:
+tamil
+url:
+
+Engineering
+
+Mechanical Engineer
+
+topic: Engineering Mathematics
+url1:
+url2:
+tamil
+url:
+
+topic: Engineering Physics
+url1:
+url2:
+tamil
+url:
+
+topic: Engineering Drawing
+url1:
+url2:
+tamil
+url:
+
+topic: Statics
+url1:
+url2:
+tamil
+url:
+
+topic: Dynamics
+url1:
+url2:
+tamil
+url:
+
+topic: Mechanics of Materials
+url1:
+url2:
+tamil
+url:
+
+topic: Thermodynamics
+url1:
+url2:
+tamil
+url:
+
+topic: Fluid Mechanics
+url1:
+url2:
+tamil
+url:
+
+topic: Heat Transfer
+url1:
+url2:
+tamil
+url:
+
+topic: Manufacturing
+url1:
+url2:
+tamil
+url:
+
+topic: CAD
+url1:
+url2:
+tamil
+url:
+
+topic: Materials Science
+url1:
+url2:
+tamil
+url:
+
+topic: Machine Design
+url1:
+url2:
+tamil
+url:
+
+topic: Control Systems
+url1:
+url2:
+tamil
+url:
+
+topic: Mechanical Projects
+url1:
+url2:
+tamil
+url:
+
+Civil Engineer
+
+topic: Engineering Mathematics
+url1:
+url2:
+tamil
+url:
+
+topic: Engineering Mechanics
+url1:
+url2:
+tamil
+url:
+
+topic: Surveying
+url1:
+url2:
+tamil
+url:
+
+topic: Structural Analysis
+url1:
+url2:
+tamil
+url:
+
+topic: Strength of Materials
+url1:
+url2:
+tamil
+url:
+
+topic: Concrete Technology
+url1:
+url2:
+tamil
+url:
+
+topic: Steel Structures
+url1:
+url2:
+tamil
+url:
+
+topic: Geotechnical Engineering
+url1:
+url2:
+tamil
+url:
+
+topic: Fluid Mechanics
+url1:
+url2:
+tamil
+url:
+
+topic: Hydraulics
+url1:
+url2:
+tamil
+url:
+
+topic: Transportation Engineering
+url1:
+url2:
+tamil
+url:
+
+topic: Environmental Engineering
+url1:
+url2:
+tamil
+url:
+
+topic: Construction Management
+url1:
+url2:
+tamil
+url:
+
+topic: AutoCAD
+url1:
+url2:
+tamil
+url:
+
+topic: Civil Projects
+url1:
+url2:
+tamil
+url:
+
+Electrical Engineer
+
+topic: Engineering Mathematics
+url1:
+url2:
+tamil
+url:
+
+topic: Circuit Theory
+url1:
+url2:
+tamil
+url:
+
+topic: Electrical Machines
+url1:
+url2:
+tamil
+url:
+
+topic: Power Systems
+url1:
+url2:
+tamil
+url:
+
+topic: Control Systems
+url1:
+url2:
+tamil
+url:
+
+topic: Power Electronics
+url1:
+url2:
+tamil
+url:
+
+topic: Digital Electronics
+url1:
+url2:
+tamil
+url:
+
+topic: Analog Electronics
+url1:
+url2:
+tamil
+url:
+
+topic: Signals & Systems
+url1:
+url2:
+tamil
+url:
+
+topic: Microcontrollers
+url1:
+url2:
+tamil
+url:
+
+topic: Renewable Energy
+url1:
+url2:
+tamil
+url:
+
+topic: Electrical Design
+url1:
+url2:
+tamil
+url:
+
+topic: Electrical Projects
+url1:
+url2:
+tamil
+url:
+
+Electronics Engineer
+
+topic: Mathematics
+url1:
+url2:
+tamil
+url:
+
+topic: Circuit Theory
+url1:
+url2:
+tamil
+url:
+
+topic: Analog Electronics
+url1:
+url2:
+tamil
+url:
+
+topic: Digital Electronics
+url1:
+url2:
+tamil
+url:
+
+topic: Signals & Systems
+url1:
+url2:
+tamil
+url:
+
+topic: Microprocessors
+url1:
+url2:
+tamil
+url:
+
+topic: Microcontrollers
+url1:
+url2:
+tamil
+url:
+
+topic: Communication Systems
+url1:
+url2:
+tamil
+url:
+
+topic: Embedded Systems
+url1:
+url2:
+tamil
+url:
+
+topic: VLSI
+url1:
+url2:
+tamil
+url:
+
+topic: PCB Design
+url1:
+url2:
+tamil
+url:
+
+topic: IoT
+url1:
+url2:
+tamil
+url:
+
+topic: Electronics Projects
+url1:
+url2:
+tamil
+url:
+
+Healthcare & Medicine
+
+Doctor / Physician
+
+topic: Anatomy
+url1:
+url2:
+tamil
+url:
+
+topic: Physiology
+url1:
+url2:
+tamil
+url:
+
+topic: Biochemistry
+url1:
+url2:
+tamil
+url:
+
+topic: Pathology
+url1:
+url2:
+tamil
+url:
+
+topic: Pharmacology
+url1:
+url2:
+tamil
+url:
+
+topic: Microbiology
+url1:
+url2:
+tamil
+url:
+
+topic: Immunology
+url1:
+url2:
+tamil
+url:
+
+topic: Medicine
+url1:
+url2:
+tamil
+url:
+
+topic: Surgery
+url1:
+url2:
+tamil
+url:
+
+topic: Pediatrics
+url1:
+url2:
+tamil
+url:
+
+topic: Obstetrics & Gynecology
+url1:
+url2:
+tamil
+url:
+
+topic: Community Medicine
+url1:
+url2:
+tamil
+url:
+
+topic: Clinical Skills
+url1:
+url2:
+tamil
+url:
+
+topic: Medical Ethics
+url1:
+url2:
+tamil
+url:
+
+topic: Clinical Practice
+url1:
+url2:
+tamil
+url:
+
+Dentist
+
+topic: Anatomy
+url1:
+url2:
+tamil
+url:
+
+topic: Physiology
+url1:
+url2:
+tamil
+url:
+
+topic: Biochemistry
+url1:
+url2:
+tamil
+url:
+
+topic: Oral Biology
+url1:
+url2:
+tamil
+url:
+
+topic: Dental Anatomy
+url1:
+url2:
+tamil
+url:
+
+topic: Oral Pathology
+url1:
+url2:
+tamil
+url:
+
+topic: Pharmacology
+url1:
+url2:
+tamil
+url:
+
+topic: Periodontology
+url1:
+url2:
+tamil
+url:
+
+topic: Prosthodontics
+url1:
+url2:
+tamil
+url:
+
+topic: Orthodontics
+url1:
+url2:
+tamil
+url:
+
+topic: Oral Surgery
+url1:
+url2:
+tamil
+url:
+
+topic: Conservative Dentistry
+url1:
+url2:
+tamil
+url:
+
+topic: Clinical Practice
+url1:
+url2:
+tamil
+url:
+
+Pharmacist
+
+topic: Human Anatomy
+url1:
+url2:
+tamil
+url:
+
+topic: Physiology
+url1:
+url2:
+tamil
+url:
+
+topic: Pharmaceutical Chemistry
+url1:
+url2:
+tamil
+url:
+
+topic: Pharmaceutics
+url1:
+url2:
+tamil
+url:
+
+topic: Pharmacology
+url1:
+url2:
+tamil
+url:
+
+topic: Pharmacognosy
+url1:
+url2:
+tamil
+url:
+
+topic: Medicinal Chemistry
+url1:
+url2:
+tamil
+url:
+
+topic: Clinical Pharmacy
+url1:
+url2:
+tamil
+url:
+
+topic: Drug Safety
+url1:
+url2:
+tamil
+url:
+
+topic: Pharmacy Practice
+url1:
+url2:
+tamil
+url:
+
+Finance & Accounting
+
+Financial Analyst
+
+topic: Accounting
+url1:
+url2:
+tamil
+url:
+
+topic: Financial Statements
+url1:
+url2:
+tamil
+url:
+
+topic: Excel
+url1:
+url2:
+tamil
+url:
+
+topic: Financial Mathematics
+url1:
+url2:
+tamil
+url:
+
+topic: Corporate Finance
+url1:
+url2:
+tamil
+url:
+
+topic: Financial Modeling
+url1:
+url2:
+tamil
+url:
+
+topic: Valuation
+url1:
+url2:
+tamil
+url:
+
+topic: Financial Ratios
+url1:
+url2:
+tamil
+url:
+
+topic: Economics
+url1:
+url2:
+tamil
+url:
+
+topic: Investment Analysis
+url1:
+url2:
+tamil
+url:
+
+topic: Risk Analysis
+url1:
+url2:
+tamil
+url:
+
+topic: Financial Markets
+url1:
+url2:
+tamil
+url:
+
+topic: Financial Modeling Projects
+url1:
+url2:
+tamil
+url:
+
+Investment Banker
+
+topic: Accounting
+url1:
+url2:
+tamil
+url:
+
+topic: Corporate Finance
+url1:
+url2:
+tamil
+url:
+
+topic: Financial Statements
+url1:
+url2:
+tamil
+url:
+
+topic: Valuation
+url1:
+url2:
+tamil
+url:
+
+topic: Financial Modeling
+url1:
+url2:
+tamil
+url:
+
+topic: Excel
+url1:
+url2:
+tamil
+url:
+
+topic: M&A
+url1:
+url2:
+tamil
+url:
+
+topic: Investment Banking
+url1:
+url2:
+tamil
+url:
+
+topic: Capital Markets
+url1:
+url2:
+tamil
+url:
+
+topic: Financial Analysis
+url1:
+url2:
+tamil
+url:
+
+topic: Deal Structuring
+url1:
+url2:
+tamil
+url:
+
+topic: Pitch Books
+url1:
+url2:
+tamil
+url:
+
+topic: Investment Banking Projects
+url1:
+url2:
+tamil
+url:
+
+Quantitative Analyst
+
+topic: Mathematics
+url1:
+url2:
+tamil
+url:
+
+topic: Probability
+url1:
+url2:
+tamil
+url:
+
+topic: Statistics
+url1:
+url2:
+tamil
+url:
+
+topic: Linear Algebra
+url1:
+url2:
+tamil
+url:
+
+topic: Calculus
+url1:
+url2:
+tamil
+url:
+
+topic: Python
+url1:
+url2:
+tamil
+url:
+
+topic: Data Structures
+url1:
+url2:
+tamil
+url:
+
+topic: Machine Learning
+url1:
+url2:
+tamil
+url:
+
+topic: Financial Markets
+url1:
+url2:
+tamil
+url:
+
+topic: Time Series
+url1:
+url2:
+tamil
+url:
+
+topic: Quantitative Finance
+url1:
+url2:
+tamil
+url:
+
+topic: Algorithmic Trading
+url1:
+url2:
+tamil
+url:
+
+topic: Risk Modeling
+url1:
+url2:
+tamil
+url:
+
+topic: Quant Projects
+url1:
+url2:
+tamil
+url:
+
+Chartered Accountant
+
+topic: Accounting
+url1:
+url2:
+tamil
+url:
+
+topic: Financial Reporting
+url1:
+url2:
+tamil
+url:
+
+topic: Auditing
+url1:
+url2:
+tamil
+url:
+
+topic: Taxation
+url1:
+url2:
+tamil
+url:
+
+topic: Corporate Law
+url1:
+url2:
+tamil
+url:
+
+topic: Cost Accounting
+url1:
+url2:
+tamil
+url:
+
+topic: Financial Management
+url1:
+url2:
+tamil
+url:
+
+topic: Economics
+url1:
+url2:
+tamil
+url:
+
+topic: Business Laws
+url1:
+url2:
+tamil
+url:
+
+topic: Professional Ethics
+url1:
+url2:
+tamil
+url:
+
+topic: CA Examination Preparation
+url1:
+url2:
+tamil
+url:
+
+Law & Legal
+
+Judge
+
+topic: Indian Constitution
+url1:
+url2:
+tamil
+url:
+
+topic: Civil Law
+url1:
+url2:
+tamil
+url:
+
+topic: Criminal Law
+url1:
+url2:
+tamil
+url:
+
+topic: Criminal Procedure
+url1:
+url2:
+tamil
+url:
+
+topic: Civil Procedure
+url1:
+url2:
+tamil
+url:
+
+topic: Evidence Law
+url1:
+url2:
+tamil
+url:
+
+topic: Contract Law
+url1:
+url2:
+tamil
+url:
+
+topic: Property Law
+url1:
+url2:
+tamil
+url:
+
+topic: Family Law
+url1:
+url2:
+tamil
+url:
+
+topic: Constitutional Law
+url1:
+url2:
+tamil
+url:
+
+topic: Administrative Law
+url1:
+url2:
+tamil
+url:
+
+topic: Legal Reasoning
+url1:
+url2:
+tamil
+url:
+
+topic: Case Law Analysis
+url1:
+url2:
+tamil
+url:
+
+topic: Judgment Writing
+url1:
+url2:
+tamil
+url:
+
+topic: Judicial Examination Preparation
+url1:
+url2:
+tamil
+url:
+
+Lawyer / Advocate
+
+topic: Legal Research
+url1:
+url2:
+tamil
+url:
+
+topic: Indian Constitution
+url1:
+url2:
+tamil
+url:
+
+topic: Contract Law
+url1:
+url2:
+tamil
+url:
+
+topic: Criminal Law
+url1:
+url2:
+tamil
+url:
+
+topic: Civil Law
+url1:
+url2:
+tamil
+url:
+
+topic: Civil Procedure
+url1:
+url2:
+tamil
+url:
+
+topic: Criminal Procedure
+url1:
+url2:
+tamil
+url:
+
+topic: Evidence Law
+url1:
+url2:
+tamil
+url:
+
+topic: Property Law
+url1:
+url2:
+tamil
+url:
+
+topic: Corporate Law
+url1:
+url2:
+tamil
+url:
+
+topic: Legal Drafting
+url1:
+url2:
+tamil
+url:
+
+topic: Court Procedure
+url1:
+url2:
+tamil
+url:
+
+topic: Case Analysis
+url1:
+url2:
+tamil
+url:
+
+topic: Advocacy
+url1:
+url2:
+tamil
+url:
+
+topic: Moot Court / Practical Training
+url1:
+url2:
+tamil
+url:
+
+Government & Public Service
+
+IAS
+
+topic: UPSC Examination Overview
+url1:
+url2:
+tamil
+url:
+
+topic: Indian Constitution
+url1:
+url2:
+tamil
+url:
+
+topic: Indian Polity
+url1:
+url2:
+tamil
+url:
+
+topic: Indian History
+url1:
+url2:
+tamil
+url:
+
+topic: Indian Geography
+url1:
+url2:
+tamil
+url:
+
+topic: Indian Economy
+url1:
+url2:
+tamil
+url:
+
+topic: Environment & Ecology
+url1:
+url2:
+tamil
+url:
+
+topic: Science & Technology
+url1:
+url2:
+tamil
+url:
+
+topic: Current Affairs
+url1:
+url2:
+tamil
+url:
+
+topic: Ethics
+url1:
+url2:
+tamil
+url:
+
+topic: Essay Writing
+url1:
+url2:
+tamil
+url:
+
+topic: CSAT
+url1:
+url2:
+tamil
+url:
+
+topic: General Studies
+url1:
+url2:
+tamil
+url:
+
+topic: Optional Subject
+url1:
+url2:
+tamil
+url:
+
+topic: UPSC Previous Papers
+url1:
+url2:
+tamil
+url:
+
+topic: Mock Tests
+url1:
+url2:
+tamil
+url:
+
+topic: Interview Preparation
+url1:
+url2:
+tamil
+url:
+
+IPS
+
+topic: UPSC Examination Overview
+url1:
+url2:
+tamil
+url:
+
+topic: Indian Polity
+url1:
+url2:
+tamil
+url:
+
+topic: Indian Constitution
+url1:
+url2:
+tamil
+url:
+
+topic: Indian History
+url1:
+url2:
+tamil
+url:
+
+topic: Geography
+url1:
+url2:
+tamil
+url:
+
+topic: Economy
+url1:
+url2:
+tamil
+url:
+
+topic: Current Affairs
+url1:
+url2:
+tamil
+url:
+
+topic: Internal Security
+url1:
+url2:
+tamil
+url:
+
+topic: Law & Order
+url1:
+url2:
+tamil
+url:
+
+topic: Criminal Justice
+url1:
+url2:
+tamil
+url:
+
+topic: Ethics
+url1:
+url2:
+tamil
+url:
+
+topic: CSAT
+url1:
+url2:
+tamil
+url:
+
+topic: General Studies
+url1:
+url2:
+tamil
+url:
+
+topic: Physical Fitness Preparation
+url1:
+url2:
+tamil
+url:
+
+topic: Previous Papers
+url1:
+url2:
+tamil
+url:
+
+topic: Interview Preparation
+url1:
+url2:
+tamil
+url:
+
+IFS — Indian Foreign Service
+
+topic: UPSC Examination
+url1:
+url2:
+tamil
+url:
+
+topic: International Relations
+url1:
+url2:
+tamil
+url:
+
+topic: Indian Foreign Policy
+url1:
+url2:
+tamil
+url:
+
+topic: Indian Polity
+url1:
+url2:
+tamil
+url:
+
+topic: Indian History
+url1:
+url2:
+tamil
+url:
+
+topic: World History
+url1:
+url2:
+tamil
+url:
+
+topic: Geography
+url1:
+url2:
+tamil
+url:
+
+topic: Economics
+url1:
+url2:
+tamil
+url:
+
+topic: International Organizations
+url1:
+url2:
+tamil
+url:
+
+topic: Diplomacy
+url1:
+url2:
+tamil
+url:
+
+topic: Current Affairs
+url1:
+url2:
+tamil
+url:
+
+topic: Ethics
+url1:
+url2:
+tamil
+url:
+
+topic: Essay Writing
+url1:
+url2:
+tamil
+url:
+
+topic: CSAT
+url1:
+url2:
+tamil
+url:
+
+topic: Interview Preparation
+url1:
+url2:
+tamil
+url:
+
+IRS
+
+topic: UPSC Examination
+url1:
+url2:
+tamil
+url:
+
+topic: Indian Economy
+url1:
+url2:
+tamil
+url:
+
+topic: Taxation Fundamentals
+url1:
+url2:
+tamil
+url:
+
+topic: Income Tax
+url1:
+url2:
+tamil
+url:
+
+topic: GST
+url1:
+url2:
+tamil
+url:
+
+topic: Customs
+url1:
+url2:
+tamil
+url:
+
+topic: Indian Polity
+url1:
+url2:
+tamil
+url:
+
+topic: Constitution
+url1:
+url2:
+tamil
+url:
+
+topic: Accounting
+url1:
+url2:
+tamil
+url:
+
+topic: Economics
+url1:
+url2:
+tamil
+url:
+
+topic: Current Affairs
+url1:
+url2:
+tamil
+url:
+
+topic: Ethics
+url1:
+url2:
+tamil
+url:
+
+topic: General Studies
+url1:
+url2:
+tamil
+url:
+
+topic: CSAT
+url1:
+url2:
+tamil
+url:
+
+topic: Previous Papers
+url1:
+url2:
+tamil
+url:
+
+topic: Interview Preparation
+url1:
+url2:
+tamil
+url:
+
+IFoS — Indian Forest Service
+
+topic: UPSC Examination
+url1:
+url2:
+tamil
+url:
+
+topic: Forestry
+url1:
+url2:
+tamil
+url:
+
+topic: Botany
+url1:
+url2:
+tamil
+url:
+
+topic: Zoology
+url1:
+url2:
+tamil
+url:
+
+topic: Ecology
+url1:
+url2:
+tamil
+url:
+
+topic: Environmental Science
+url1:
+url2:
+tamil
+url:
+
+topic: Wildlife
+url1:
+url2:
+tamil
+url:
+
+topic: Geography
+url1:
+url2:
+tamil
+url:
+
+topic: General Studies
+url1:
+url2:
+tamil
+url:
+
+topic: Current Affairs
+url1:
+url2:
+tamil
+url:
+
+topic: Science
+url1:
+url2:
+tamil
+url:
+
+topic: CSAT
+url1:
+url2:
+tamil
+url:
+
+topic: Optional Subjects
+url1:
+url2:
+tamil
+url:
+
+topic: Previous Papers
+url1:
+url2:
+tamil
+url:
+
+topic: Interview Preparation
+url1:
+url2:
+tamil
+url:
+
+Other Civil Services
+
+topic: UPSC Examination
+url1:
+url2:
+tamil
+url:
+
+topic: Indian Constitution
+url1:
+url2:
+tamil
+url:
+
+topic: Indian Polity
+url1:
+url2:
+tamil
+url:
+
+topic: Indian History
+url1:
+url2:
+tamil
+url:
+
+topic: Geography
+url1:
+url2:
+tamil
+url:
+
+topic: Indian Economy
+url1:
+url2:
+tamil
+url:
+
+topic: General Science
+url1:
+url2:
+tamil
+url:
+
+topic: Environment
+url1:
+url2:
+tamil
+url:
+
+topic: Current Affairs
+url1:
+url2:
+tamil
+url:
+
+topic: Ethics
+url1:
+url2:
+tamil
+url:
+
+topic: Essay
+url1:
+url2:
+tamil
+url:
+
+topic: CSAT
+url1:
+url2:
+tamil
+url:
+
+topic: Service-Specific Knowledge
+url1:
+url2:
+tamil
+url:
+
+topic: Previous Papers
+url1:
+url2:
+tamil
+url:
+
+topic: Interview Preparation
+url1:
+url2:
+tamil
+url:
+
+Science & Research
+
+Physicist
+
+topic: Mathematics
+url1:
+url2:
+tamil
+url:
+
+topic: Classical Mechanics
+url1:
+url2:
+tamil
+url:
+
+topic: Electromagnetism
+url1:
+url2:
+tamil
+url:
+
+topic: Thermodynamics
+url1:
+url2:
+tamil
+url:
+
+topic: Statistical Mechanics
+url1:
+url2:
+tamil
+url:
+
+topic: Quantum Mechanics
+url1:
+url2:
+tamil
+url:
+
+topic: Optics
+url1:
+url2:
+tamil
+url:
+
+topic: Relativity
+url1:
+url2:
+tamil
+url:
+
+topic: Mathematical Physics
+url1:
+url2:
+tamil
+url:
+
+topic: Computational Physics
+url1:
+url2:
+tamil
+url:
+
+topic: Experimental Methods
+url1:
+url2:
+tamil
+url:
+
+topic: Research Methods
+url1:
+url2:
+tamil
+url:
+
+Biotechnologist
+
+topic: Biology
+url1:
+url2:
+tamil
+url:
+
+topic: Chemistry
+url1:
+url2:
+tamil
+url:
+
+topic: Cell Biology
+url1:
+url2:
+tamil
+url:
+
+topic: Molecular Biology
+url1:
+url2:
+tamil
+url:
+
+topic: Genetics
+url1:
+url2:
+tamil
+url:
+
+topic: Biochemistry
+url1:
+url2:
+tamil
+url:
+
+topic: Microbiology
+url1:
+url2:
+tamil
+url:
+
+topic: Bioinformatics
+url1:
+url2:
+tamil
+url:
+
+topic: Genetic Engineering
+url1:
+url2:
+tamil
+url:
+
+topic: Biotechnology Techniques
+url1:
+url2:
+tamil
+url:
+
+topic: Biostatistics
+url1:
+url2:
+tamil
+url:
+
+topic: Research Methods
+url1:
+url2:
+tamil
+url:
+
+topic: Biotechnology Projects
+url1:
+url2:
+tamil
+url:
+
+Design & Creative
+
+UI/UX Designer
+
+topic: Design Fundamentals
+url1:
+url2:
+tamil
+url:
+
+topic: User Research
+url1:
+url2:
+tamil
+url:
+
+topic: UX Research
+url1:
+url2:
+tamil
+url:
+
+topic: Information Architecture
+url1:
+url2:
+tamil
+url:
+
+topic: Wireframing
+url1:
+url2:
+tamil
+url:
+
+topic: Prototyping
+url1:
+url2:
+tamil
+url:
+
+topic: Figma
+url1:
+url2:
+tamil
+url:
+
+topic: Interaction Design
+url1:
+url2:
+tamil
+url:
+
+topic: Visual Design
+url1:
+url2:
+tamil
+url:
+
+topic: Design Systems
+url1:
+url2:
+tamil
+url:
+
+topic: Accessibility
+url1:
+url2:
+tamil
+url:
+
+topic: Usability Testing
+url1:
+url2:
+tamil
+url:
+
+topic: Portfolio
+url1:
+url2:
+tamil
+url:
+
+topic: UX Projects
+url1:
+url2:
+tamil
+url:
+
+Graphic Designer
+
+topic: Design Fundamentals
+url1:
+url2:
+tamil
+url:
+
+topic: Color Theory
+url1:
+url2:
+tamil
+url:
+
+topic: Typography
+url1:
+url2:
+tamil
+url:
+
+topic: Composition
+url1:
+url2:
+tamil
+url:
+
+topic: Branding
+url1:
+url2:
+tamil
+url:
+
+topic: Photoshop
+url1:
+url2:
+tamil
+url:
+
+topic: Illustrator
+url1:
+url2:
+tamil
+url:
+
+topic: InDesign
+url1:
+url2:
+tamil
+url:
+
+topic: Layout Design
+url1:
+url2:
+tamil
+url:
+
+topic: Illustration
+url1:
+url2:
+tamil
+url:
+
+topic: Print Design
+url1:
+url2:
+tamil
+url:
+
+topic: Digital Design
+url1:
+url2:
+tamil
+url:
+
+topic: Portfolio
+url1:
+url2:
+tamil
+url:
+
+Business & Management
+
+Product Manager
+
+topic: Product Management Fundamentals
+url1:
+url2:
+tamil
+url:
+
+topic: Market Research
+url1:
+url2:
+tamil
+url:
+
+topic: User Research
+url1:
+url2:
+tamil
+url:
+
+topic: Product Strategy
+url1:
+url2:
+tamil
+url:
+
+topic: Product Discovery
+url1:
+url2:
+tamil
+url:
+
+topic: Requirements
+url1:
+url2:
+tamil
+url:
+
+topic: Roadmapping
+url1:
+url2:
+tamil
+url:
+
+topic: Agile
+url1:
+url2:
+tamil
+url:
+
+topic: UX Fundamentals
+url1:
+url2:
+tamil
+url:
+
+topic: Data Analytics
+url1:
+url2:
+tamil
+url:
+
+topic: Product Metrics
+url1:
+url2:
+tamil
+url:
+
+topic: A/B Testing
+url1:
+url2:
+tamil
+url:
+
+topic: Product Launch
+url1:
+url2:
+tamil
+url:
+
+topic: Product Projects
+url1:
+url2:
+tamil
+url:
+
+Business Analyst
+
+topic: Business Analysis Fundamentals
+url1:
+url2:
+tamil
+url:
+
+topic: Requirements Gathering
+url1:
+url2:
+tamil
+url:
+
+topic: Stakeholder Management
+url1:
+url2:
+tamil
+url:
+
+topic: Process Modeling
+url1:
+url2:
+tamil
+url:
+
+topic: Data Analysis
+url1:
+url2:
+tamil
+url:
+
+topic: Excel
+url1:
+url2:
+tamil
+url:
+
+topic: SQL
+url1:
+url2:
+tamil
+url:
+
+topic: Statistics
+url1:
+url2:
+tamil
+url:
+
+topic: Business Intelligence
+url1:
+url2:
+tamil
+url:
+
+topic: Visualization
+url1:
+url2:
+tamil
+url:
+
+topic: Documentation
+url1:
+url2:
+tamil
+url:
+
+topic: Problem Solving
+url1:
+url2:
+tamil
+url:
+
+topic: Business Projects
+url1:
+url2:
+tamil
+url:
+
+Marketing & Media
+
+Digital Marketer
+
+topic: Marketing Fundamentals
+url1:
+url2:
+tamil
+url:
+
+topic: Consumer Behavior
+url1:
+url2:
+tamil
+url:
+
+topic: Digital Marketing
+url1:
+url2:
+tamil
+url:
+
+topic: SEO
+url1:
+url2:
+tamil
+url:
+
+topic: SEM
+url1:
+url2:
+tamil
+url:
+
+topic: Social Media Marketing
+url1:
+url2:
+tamil
+url:
+
+topic: Content Marketing
+url1:
+url2:
+tamil
+url:
+
+topic: Email Marketing
+url1:
+url2:
+tamil
+url:
+
+topic: Analytics
+url1:
+url2:
+tamil
+url:
+
+topic: Google Ads
+url1:
+url2:
+tamil
+url:
+
+topic: Social Media Ads
+url1:
+url2:
+tamil
+url:
+
+topic: Conversion Optimization
+url1:
+url2:
+tamil
+url:
+
+topic: Marketing Strategy
+url1:
+url2:
+tamil
+url:
+
+topic: Marketing Projects
+url1:
+url2:
+tamil
+url:
+
+Content Creator
+
+topic: Content Strategy
+url1:
+url2:
+tamil
+url:
+
+topic: Storytelling
+url1:
+url2:
+tamil
+url:
+
+topic: Scriptwriting
+url1:
+url2:
+tamil
+url:
+
+topic: Video Production
+url1:
+url2:
+tamil
+url:
+
+topic: Video Editing
+url1:
+url2:
+tamil
+url:
+
+topic: Thumbnail Design
+url1:
+url2:
+tamil
+url:
+
+topic: Social Media
+url1:
+url2:
+tamil
+url:
+
+topic: Audience Research
+url1:
+url2:
+tamil
+url:
+
+topic: SEO
+url1:
+url2:
+tamil
+url:
+
+topic: Analytics
+url1:
+url2:
+tamil
+url:
+
+topic: Personal Branding
+url1:
+url2:
+tamil
+url:
+
+topic: Content Projects
+url1:
+url2:
+tamil
+url:
+
+Architecture & Construction
+
+Architect
+
+topic: Design Fundamentals
+url1:
+url2:
+tamil
+url:
+
+topic: Architectural Drawing
+url1:
+url2:
+tamil
+url:
+
+topic: Geometry
+url1:
+url2:
+tamil
+url:
+
+topic: Building Materials
+url1:
+url2:
+tamil
+url:
+
+topic: Building Construction
+url1:
+url2:
+tamil
+url:
+
+topic: Structural Fundamentals
+url1:
+url2:
+tamil
+url:
+
+topic: Environmental Design
+url1:
+url2:
+tamil
+url:
+
+topic: AutoCAD
+url1:
+url2:
+tamil
+url:
+
+topic: Revit
+url1:
+url2:
+tamil
+url:
+
+topic: SketchUp
+url1:
+url2:
+tamil
+url:
+
+topic: BIM
+url1:
+url2:
+tamil
+url:
+
+topic: Urban Design
+url1:
+url2:
+tamil
+url:
+
+topic: Architectural History
+url1:
+url2:
+tamil
+url:
+
+topic: Portfolio
+url1:
+url2:
+tamil
+url:
+
+topic: Design Projects
+url1:
+url2:
+tamil
+url:
+
+Education
+
+Teacher
+
+topic: Subject Knowledge
+url1:
+url2:
+tamil
+url:
+
+topic: Pedagogy
+url1:
+url2:
+tamil
+url:
+
+topic: Educational Psychology
+url1:
+url2:
+tamil
+url:
+
+topic: Classroom Management
+url1:
+url2:
+tamil
+url:
+
+topic: Lesson Planning
+url1:
+url2:
+tamil
+url:
+
+topic: Assessment
+url1:
+url2:
+tamil
+url:
+
+topic: Curriculum Design
+url1:
+url2:
+tamil
+url:
+
+topic: Educational Technology
+url1:
+url2:
+tamil
+url:
+
+topic: Communication
+url1:
+url2:
+tamil
+url:
+
+topic: Inclusive Education
+url1:
+url2:
+tamil
+url:
+
+topic: Teaching Practice
+url1:
+url2:
+tamil
+url:
+
+Professor / Academic Researcher
+
+topic: Subject Specialization
+url1:
+url2:
+tamil
+url:
+
+topic: Research Methodology
+url1:
+url2:
+tamil
+url:
+
+topic: Academic Writing
+url1:
+url2:
+tamil
+url:
+
+topic: Statistics
+url1:
+url2:
+tamil
+url:
+
+topic: Literature Review
+url1:
+url2:
+tamil
+url:
+
+topic: Research Design
+url1:
+url2:
+tamil
+url:
+
+topic: Data Analysis
+url1:
+url2:
+tamil
+url:
+
+topic: Publishing
+url1:
+url2:
+tamil
+url:
+
+topic: Teaching Methodology
+url1:
+url2:
+tamil
+url:
+
+topic: Academic Presentation
+url1:
+url2:
+tamil
+url:
+
+topic: Research Project
+url1:
+url2:
+tamil
+url:
+
+Agriculture
+
+Agricultural Scientist
+
+topic: Biology
+url1:
+url2:
+tamil
+url:
+
+topic: Chemistry
+url1:
+url2:
+tamil
+url:
+
+topic: Soil Science
+url1:
+url2:
+tamil
+url:
+
+topic: Plant Science
+url1:
+url2:
+tamil
+url:
+
+topic: Crop Science
+url1:
+url2:
+tamil
+url:
+
+topic: Genetics
+url1:
+url2:
+tamil
+url:
+
+topic: Plant Breeding
+url1:
+url2:
+tamil
+url:
+
+topic: Agronomy
+url1:
+url2:
+tamil
+url:
+
+topic: Agricultural Economics
+url1:
+url2:
+tamil
+url:
+
+topic: Agricultural Technology
+url1:
+url2:
+tamil
+url:
+
+topic: Precision Agriculture
+url1:
+url2:
+tamil
+url:
+
+topic: Research Methods
+url1:
+url2:
+tamil
+url:
+
+topic: Agriculture Projects
+url1:
+url2:
+tamil
+url:
+
+Aviation
+
+Pilot
+
+topic: Aviation Fundamentals
+url1:
+url2:
+tamil
+url:
+
+topic: Aerodynamics
+url1:
+url2:
+tamil
+url:
+
+topic: Aircraft Systems
+url1:
+url2:
+tamil
+url:
+
+topic: Navigation
+url1:
+url2:
+tamil
+url:
+
+topic: Meteorology
+url1:
+url2:
+tamil
+url:
+
+topic: Aviation Regulations
+url1:
+url2:
+tamil
+url:
+
+topic: Flight Planning
+url1:
+url2:
+tamil
+url:
+
+topic: Radio Communication
+url1:
+url2:
+tamil
+url:
+
+topic: Human Factors
+url1:
+url2:
+tamil
+url:
+
+topic: Emergency Procedures
+url1:
+url2:
+tamil
+url:
+
+topic: Flight Training
+url1:
+url2:
+tamil
+url:
+
+topic: Aviation Safety
+url1:
+url2:
+tamil
+url:
+
+Aerospace Engineer
+
+topic: Mathematics
+url1:
+url2:
+tamil
+url:
+
+topic: Physics
+url1:
+url2:
+tamil
+url:
+
+topic: Aerodynamics
+url1:
+url2:
+tamil
+url:
+
+topic: Fluid Mechanics
+url1:
+url2:
+tamil
+url:
+
+topic: Thermodynamics
+url1:
+url2:
+tamil
+url:
+
+topic: Propulsion
+url1:
+url2:
+tamil
+url:
+
+topic: Aircraft Structures
+url1:
+url2:
+tamil
+url:
+
+topic: Flight Mechanics
+url1:
+url2:
+tamil
+url:
+
+topic: Control Systems
+url1:
+url2:
+tamil
+url:
+
+topic: Avionics
+url1:
+url2:
+tamil
+url:
+
+topic: CAD
+url1:
+url2:
+tamil
+url:
+
+topic: Simulation
+url1:
+url2:
+tamil
+url:
+
+topic: Aerospace Projects
+url1:
+url2:
+tamil
+url:
+
+Maritime
+
+Marine Engineer
+
+topic: Mathematics
+url1:
+url2:
+tamil
+url:
+
+topic: Physics
+url1:
+url2:
+tamil
+url:
+
+topic: Thermodynamics
+url1:
+url2:
+tamil
+url:
+
+topic: Fluid Mechanics
+url1:
+url2:
+tamil
+url:
+
+topic: Marine Engineering
+url1:
+url2:
+tamil
+url:
+
+topic: Ship Systems
+url1:
+url2:
+tamil
+url:
+
+topic: Marine Engines
+url1:
+url2:
+tamil
+url:
+
+topic: Electrical Systems
+url1:
+url2:
+tamil
+url:
+
+topic: Navigation
+url1:
+url2:
+tamil
+url:
+
+topic: Maritime Safety
+url1:
+url2:
+tamil
+url:
+
+topic: Marine Regulations
+url1:
+url2:
+tamil
+url:
+
+topic: Marine Engineering Projects
+url1:
+url2:
+tamil
+url:
+
+Hospitality & Tourism
+
+Hotel Manager
+
+topic: Hospitality Fundamentals
+url1:
+url2:
+tamil
+url:
+
+topic: Hotel Operations
+url1:
+url2:
+tamil
+url:
+
+topic: Front Office
+url1:
+url2:
+tamil
+url:
+
+topic: Housekeeping
+url1:
+url2:
+tamil
+url:
+
+topic: Food & Beverage
+url1:
+url2:
+tamil
+url:
+
+topic: Revenue Management
+url1:
+url2:
+tamil
+url:
+
+topic: Marketing
+url1:
+url2:
+tamil
+url:
+
+topic: Customer Service
+url1:
+url2:
+tamil
+url:
+
+topic: HR
+url1:
+url2:
+tamil
+url:
+
+topic: Finance
+url1:
+url2:
+tamil
+url:
+
+topic: Event Management
+url1:
+url2:
+tamil
+url:
+
+topic: Hotel Management Projects
+url1:
+url2:
+tamil
+url:
+
+Chef
+
+topic: Culinary Fundamentals
+url1:
+url2:
+tamil
+url:
+
+topic: Food Safety
+url1:
+url2:
+tamil
+url:
+
+topic: Knife Skills
+url1:
+url2:
+tamil
+url:
+
+topic: Cooking Techniques
+url1:
+url2:
+tamil
+url:
+
+topic: Ingredients
+url1:
+url2:
+tamil
+url:
+
+topic: Baking
+url1:
+url2:
+tamil
+url:
+
+topic: Pastry
+url1:
+url2:
+tamil
+url:
+
+topic: Menu Planning
+url1:
+url2:
+tamil
+url:
+
+topic: Kitchen Management
+url1:
+url2:
+tamil
+url:
+
+topic: Food Costing
+url1:
+url2:
+tamil
+url:
+
+topic: Culinary Practice
+url1:
+url2:
+tamil
+url:
+
+Sports & Fitness
+
+Fitness Trainer
+
+topic: Anatomy
+url1:
+url2:
+tamil
+url:
+
+topic: Physiology
+url1:
+url2:
+tamil
+url:
+
+topic: Exercise Science
+url1:
+url2:
+tamil
+url:
+
+topic: Strength Training
+url1:
+url2:
+tamil
+url:
+
+topic: Conditioning
+url1:
+url2:
+tamil
+url:
+
+topic: Nutrition Fundamentals
+url1:
+url2:
+tamil
+url:
+
+topic: Exercise Programming
+url1:
+url2:
+tamil
+url:
+
+topic: Injury Prevention
+url1:
+url2:
+tamil
+url:
+
+topic: Client Assessment
+url1:
+url2:
+tamil
+url:
+
+topic: Coaching
+url1:
+url2:
+tamil
+url:
+
+topic: Fitness Projects
+url1:
+url2:
+tamil
+url:
+
+Sports Analyst
+
+topic: Mathematics
+url1:
+url2:
+tamil
+url:
+
+topic: Statistics
+url1:
+url2:
+tamil
+url:
+
+topic: Sports Data
+url1:
+url2:
+tamil
+url:
+
+topic: Data Analysis
+url1:
+url2:
+tamil
+url:
+
+topic: Python
+url1:
+url2:
+tamil
+url:
+
+topic: SQL
+url1:
+url2:
+tamil
+url:
+
+topic: Visualization
+url1:
+url2:
+tamil
+url:
+
+topic: Performance Analysis
+url1:
+url2:
+tamil
+url:
+
+topic: Sports Strategy
+url1:
+url2:
+tamil
+url:
+
+topic: Sports Analytics Projects
+url1:
+url2:
+tamil
+url:
+
+Entertainment
+
+Film Director
+
+topic: Storytelling
+url1:
+url2:
+tamil
+url:
+
+topic: Screenwriting
+url1:
+url2:
+tamil
+url:
+
+topic: Film Language
+url1:
+url2:
+tamil
+url:
+
+topic: Cinematography
+url1:
+url2:
+tamil
+url:
+
+topic: Directing
+url1:
+url2:
+tamil
+url:
+
+topic: Production
+url1:
+url2:
+tamil
+url:
+
+topic: Editing
+url1:
+url2:
+tamil
+url:
+
+topic: Sound
+url1:
+url2:
+tamil
+url:
+
+topic: Lighting
+url1:
+url2:
+tamil
+url:
+
+topic: Acting Direction
+url1:
+url2:
+tamil
+url:
+
+topic: Film Production
+url1:
+url2:
+tamil
+url:
+
+topic: Film Project
+url1:
+url2:
+tamil
+url:
+
+Music Producer
+
+topic: Music Theory
+url1:
+url2:
+tamil
+url:
+
+topic: Audio Fundamentals
+url1:
+url2:
+tamil
+url:
+
+topic: DAWs
+url1:
+url2:
+tamil
+url:
+
+topic: Recording
+url1:
+url2:
+tamil
+url:
+
+topic: Mixing
+url1:
+url2:
+tamil
+url:
+
+topic: Mastering
+url1:
+url2:
+tamil
+url:
+
+topic: Sound Design
+url1:
+url2:
+tamil
+url:
+
+topic: MIDI
+url1:
+url2:
+tamil
+url:
+
+topic: Arrangement
+url1:
+url2:
+tamil
+url:
+
+topic: Music Production
+url1:
+url2:
+tamil
+url:
+
+topic: Production Projects
+url1:
+url2:
+tamil
+url:
+
+Environment & Sustainability
+
+Environmental Scientist
+
+topic: Biology
+url1:
+url2:
+tamil
+url:
+
+topic: Chemistry
+url1:
+url2:
+tamil
+url:
+
+topic: Ecology
+url1:
+url2:
+tamil
+url:
+
+topic: Environmental Science
+url1:
+url2:
+tamil
+url:
+
+topic: Climate Science
+url1:
+url2:
+tamil
+url:
+
+topic: Pollution
+url1:
+url2:
+tamil
+url:
+
+topic: Water Resources
+url1:
+url2:
+tamil
+url:
+
+topic: Waste Management
+url1:
+url2:
+tamil
+url:
+
+topic: Environmental Impact Assessment
+url1:
+url2:
+tamil
+url:
+
+topic: GIS
+url1:
+url2:
+tamil
+url:
+
+topic: Sustainability
+url1:
+url2:
+tamil
+url:
+
+topic: Environmental Research
+url1:
+url2:
+tamil
+url:
+
+Sustainability Consultant
+
+topic: Sustainability Fundamentals
+url1:
+url2:
+tamil
+url:
+
+topic: ESG
+url1:
+url2:
+tamil
+url:
+
+topic: Climate Change
+url1:
+url2:
+tamil
+url:
+
+topic: Carbon Accounting
+url1:
+url2:
+tamil
+url:
+
+topic: Energy
+url1:
+url2:
+tamil
+url:
+
+topic: Circular Economy
+url1:
+url2:
+tamil
+url:
+
+topic: Environmental Management
+url1:
+url2:
+tamil
+url:
+
+topic: Sustainability Reporting
+url1:
+url2:
+tamil
+url:
+
+topic: ESG Data
+url1:
+url2:
+tamil
+url:
+
+topic: Sustainability Strategy
+url1:
+url2:
+tamil
+url:
+
+topic: Consulting Projects
+url1:
+url2:
+tamil
+url:
+
+Fashion
+
+Fashion Designer
+
+topic: Fashion Fundamentals
+url1:
+url2:
+tamil
+url:
+
+topic: Drawing
+url1:
+url2:
+tamil
+url:
+
+topic: Color Theory
+url1:
+url2:
+tamil
+url:
+
+topic: Textiles
+url1:
+url2:
+tamil
+url:
+
+topic: Pattern Making
+url1:
+url2:
+tamil
+url:
+
+topic: Garment Construction
+url1:
+url2:
+tamil
+url:
+
+topic: Fashion Illustration
+url1:
+url2:
+tamil
+url:
+
+topic: CAD
+url1:
+url2:
+tamil
+url:
+
+topic: Fashion History
+url1:
+url2:
+tamil
+url:
+
+topic: Trend Research
+url1:
+url2:
+tamil
+url:
+
+topic: Collection Development
+url1:
+url2:
+tamil
+url:
+
+topic: Portfolio
+url1:
+url2:
+tamil
+url:
+
+Public Safety
+
+Firefighter
+
+topic: Fire Science
+url1:
+url2:
+tamil
+url:
+
+topic: Fire Prevention
+url1:
+url2:
+tamil
+url:
+
+topic: Fire Behavior
+url1:
+url2:
+tamil
+url:
+
+topic: Emergency Response
+url1:
+url2:
+tamil
+url:
+
+topic: Rescue Techniques
+url1:
+url2:
+tamil
+url:
+
+topic: First Aid
+url1:
+url2:
+tamil
+url:
+
+topic: Fire Equipment
+url1:
+url2:
+tamil
+url:
+
+topic: Hazardous Materials
+url1:
+url2:
+tamil
+url:
+
+topic: Disaster Management
+url1:
+url2:
+tamil
+url:
+
+topic: Physical Fitness
+url1:
+url2:
+tamil
+url:
+
+topic: Safety Procedures
+url1:
+url2:
+tamil
+url:
+
+topic: Practical Training
+url1:
+url2:
+tamil
+url:
+
+Psychology
+
+Psychologist
+
+topic: Introduction to Psychology
+url1:
+url2:
+tamil
+url:
+
+topic: Biological Psychology
+url1:
+url2:
+tamil
+url:
+
+topic: Cognitive Psychology
+url1:
+url2:
+tamil
+url:
+
+topic: Developmental Psychology
+url1:
+url2:
+tamil
+url:
+
+topic: Social Psychology
+url1:
+url2:
+tamil
+url:
+
+topic: Personality
+url1:
+url2:
+tamil
+url:
+
+topic: Research Methods
+url1:
+url2:
+tamil
+url:
+
+topic: Statistics
+url1:
+url2:
+tamil
+url:
+
+topic: Psychological Assessment
+url1:
+url2:
+tamil
+url:
+
+topic: Counseling Fundamentals
+url1:
+url2:
+tamil
+url:
+
+topic: Ethics
+url1:
+url2:
+tamil
+url:
+
+topic: Practical Training
+url1:
+url2:
+tamil
+url:
+
+Real Estate
+
+Real Estate Analyst
+
+topic: Real Estate Fundamentals
+url1:
+url2:
+tamil
+url:
+
+topic: Economics
+url1:
+url2:
+tamil
+url:
+
+topic: Financial Analysis
+url1:
+url2:
+tamil
+url:
+
+topic: Excel
+url1:
+url2:
+tamil
+url:
+
+topic: Property Valuation
+url1:
+url2:
+tamil
+url:
+
+topic: Market Analysis
+url1:
+url2:
+tamil
+url:
+
+topic: Real Estate Finance
+url1:
+url2:
+tamil
+url:
+
+topic: Investment Analysis
+url1:
+url2:
+tamil
+url:
+
+topic: Data Analysis
+url1:
+url2:
+tamil
+url:
+
+topic: Real Estate Modeling
+url1:
+url2:
+tamil
+url:
+
+topic: Real Estate Projects
+url1:
+url2:
+tamil
+url:
+
+Logistics
+
+Supply Chain Manager
+
+topic: Supply Chain Fundamentals
+url1:
+url2:
+tamil
+url:
+
+topic: Procurement
+url1:
+url2:
+tamil
+url:
+
+topic: Inventory Management
+url1:
+url2:
+tamil
+url:
+
+topic: Warehousing
+url1:
+url2:
+tamil
+url:
+
+topic: Logistics
+url1:
+url2:
+tamil
+url:
+
+topic: Transportation
+url1:
+url2:
+tamil
+url:
+
+topic: Demand Forecasting
+url1:
+url2:
+tamil
+url:
+
+topic: Supply Planning
+url1:
+url2:
+tamil
+url:
+
+topic: Excel
+url1:
+url2:
+tamil
+url:
+
+topic: Data Analytics
+url1:
+url2:
+tamil
+url:
+
+topic: ERP Systems
+url1:
+url2:
+tamil
+url:
+
+topic: Supply Chain Strategy
+url1:
+url2:
+tamil
+url:
+
+topic: Supply Chain Projects
+url1:
+url2:
+tamil
+url:
+
+Compliance & Corporate Governance
+
+Compliance Officer
+
+topic: Compliance Fundamentals
+url1:
+url2:
+tamil
+url:
+
+topic: Corporate Governance
+url1:
+url2:
+tamil
+url:
+
+topic: Risk Management
+url1:
+url2:
+tamil
+url:
+
+topic: Regulatory Frameworks
+url1:
+url2:
+tamil
+url:
+
+topic: AML
+url1:
+url2:
+tamil
+url:
+
+topic: KYC
+url1:
+url2:
+tamil
+url:
+
+topic: Financial Crime
+url1:
+url2:
+tamil
+url:
+
+topic: Internal Controls
+url1:
+url2:
+tamil
+url:
+
+topic: Auditing
+url1:
+url2:
+tamil
+url:
+
+topic: Compliance Monitoring
+url1:
+url2:
+tamil
+url:
+
+topic: Reporting
+url1:
+url2:
+tamil
+url:
+
+topic: Compliance Projects
+url1:
+url2:
+tamil
+url:
+
+Information & Library Services
+
+Librarian
+
+topic: Library Science
+url1:
+url2:
+tamil
+url:
+
+topic: Information Management
+url1:
+url2:
+tamil
+url:
+
+topic: Cataloguing
+url1:
+url2:
+tamil
+url:
+
+topic: Classification
+url1:
+url2:
+tamil
+url:
+
+topic: Digital Libraries
+url1:
+url2:
+tamil
+url:
+
+topic: Information Retrieval
+url1:
+url2:
+tamil
+url:
+
+topic: Research Methods
+url1:
+url2:
+tamil
+url:
+
+topic: Archives
+url1:
+url2:
+tamil
+url:
+
+topic: Records Management
+url1:
+url2:
+tamil
+url:
+
+topic: Library Technology
+url1:
+url2:
+tamil
+url:
+
+topic: Information Services
+url1:
+url2:
+tamil
+url:
+
+Skilled Trades
+
+Electrician
+
+topic: Electrical Fundamentals
+url1:
+url2:
+tamil
+url:
+
+topic: Electrical Safety
+url1:
+url2:
+tamil
+url:
+
+topic: Circuit Theory
+url1:
+url2:
+tamil
+url:
+
+topic: Wiring
+url1:
+url2:
+tamil
+url:
+
+topic: Electrical Components
+url1:
+url2:
+tamil
+url:
+
+topic: Motors
+url1:
+url2:
+tamil
+url:
+
+topic: Distribution Systems
+url1:
+url2:
+tamil
+url:
+
+topic: Electrical Testing
+url1:
+url2:
+tamil
+url:
+
+topic: Troubleshooting
+url1:
+url2:
+tamil
+url:
+
+topic: Solar Systems
+url1:
+url2:
+tamil
+url:
+
+topic: Practical Electrical Projects
+url1:
+url2:
+tamil
+url:
+
+Automotive Technician
+
+topic: Automotive Fundamentals
+url1:
+url2:
+tamil
+url:
+
+topic: Engine Systems
+url1:
+url2:
+tamil
+url:
+
+topic: Transmission
+url1:
+url2:
+tamil
+url:
+
+topic: Braking Systems
+url1:
+url2:
+tamil
+url:
+
+topic: Suspension
+url1:
+url2:
+tamil
+url:
+
+topic: Electrical Systems
+url1:
+url2:
+tamil
+url:
+
+topic: Diagnostics
+url1:
+url2:
+tamil
+url:
+
+topic: Vehicle Electronics
+url1:
+url2:
+tamil
+url:
+
+topic: EV Fundamentals
+url1:
+url2:
+tamil
+url:
+
+topic: Automotive Maintenance
+url1:
+url2:
+tamil
+url:
+
+topic: Practical Training
+url1:
+url2:
+tamil
+url:
+
+Emerging & Interdisciplinary
+
+AI Product Manager
+
+topic: Product Management
+url1:
+url2:
+tamil
+url:
+
+topic: AI Fundamentals
+url1:
+url2:
+tamil
+url:
+
+topic: Machine Learning Basics
+url1:
+url2:
+tamil
+url:
+
+topic: Generative AI
+url1:
+url2:
+tamil
+url:
+
+topic: LLMs
+url1:
+url2:
+tamil
+url:
+
+topic: AI Product Strategy
+url1:
+url2:
+tamil
+url:
+
+topic: User Research
+url1:
+url2:
+tamil
+url:
+
+topic: Product Analytics
+url1:
+url2:
+tamil
+url:
+
+topic: AI Ethics
+url1:
+url2:
+tamil
+url:
+
+topic: AI Evaluation
+url1:
+url2:
+tamil
+url:
+
+topic: AI Product Development
+url1:
+url2:
+tamil
+url:
+
+topic: AI Product Project
+url1:
+url2:
+tamil
+url:
+
+AI Safety Researcher
+
+topic: Mathematics
+url1:
+url2:
+tamil
+url:
+
+topic: Probability
+url1:
+url2:
+tamil
+url:
+
+topic: Statistics
+url1:
+url2:
+tamil
+url:
+
+topic: Machine Learning
+url1:
+url2:
+tamil
+url:
+
+topic: Deep Learning
+url1:
+url2:
+tamil
+url:
+
+topic: Reinforcement Learning
+url1:
+url2:
+tamil
+url:
+
+topic: LLMs
+url1:
+url2:
+tamil
+url:
+
+topic: AI Alignment
+url1:
+url2:
+tamil
+url:
+
+topic: AI Evaluation
+url1:
+url2:
+tamil
+url:
+
+topic: AI Safety
+url1:
+url2:
+tamil
+url:
+
+topic: Interpretability
+url1:
+url2:
+tamil
+url:
+
+topic: AI Safety Research
+url1:
+url2:
+tamil
+url:
