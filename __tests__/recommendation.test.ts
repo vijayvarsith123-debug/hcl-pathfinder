@@ -15,8 +15,8 @@ import {
   allocateTimelineAndSchedule,
   validateRoadmap,
   generatePersonalizedRecommendation,
-  triggerAdaptivePathAdjustment,
-} from "../lib/recommendation";
+} from "../src/lib/recommendation";
+import { triggerAdaptivePathAdjustment } from "../src/lib/recommendation-engine";
 
 describe("Recommendation Engine Specifications", () => {
   // Scenario 1: Skill Gap Calculation
@@ -151,7 +151,7 @@ describe("Recommendation Engine Specifications", () => {
 
   // Scenario 11: Adaptive Path Adjustment
   test("SCENARIO 11A: Poor assessment (< 60%) triggers adaptive review tasks injection", () => {
-    const mockModules = [
+    const mockModules: any[] = [
       {
         id: "mod-3",
         title: "Statistics & Probability",
@@ -189,7 +189,7 @@ describe("Recommendation Engine Specifications", () => {
   });
 
   test("SCENARIO 11B: High assessment (>= 60%) triggers fast-track pace acceleration", () => {
-    const mockModules = [];
+    const mockModules: any[] = [];
     const mockWeeklyPlan = {
       id: "week-6",
       weekNumber: 6,

@@ -202,7 +202,7 @@ export function recommendResourcesForSkill(
 ): RecommendedResource[] {
   // 1. Find catalog entries matching the skill
   const entry = RESOURCE_CATALOG.find(
-    (c) => c.name === skillName || c.skillName === skillName
+    (c) => c.skillName === skillName
   );
   if (!entry) return [];
 

@@ -133,7 +133,7 @@ export function allocateTimelineAndSchedule(
           estimatedMinutes: Math.round(dailyHoursTarget * 60),
           resourceId: resource?.id,
           resourceTitle: resource?.title,
-          resourceType: resource?.type,
+          resourceType: resource?.type ? (resource.type.toUpperCase() as any) : undefined,
           resourceProvider: resource?.provider,
           resourceUrl: resource?.url,
           status: "pending" as TaskStatus,
