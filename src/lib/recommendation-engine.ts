@@ -1,3 +1,12 @@
+/**
+ * PathAI Recommendation Engine Module (Unified Entry Point)
+ *
+ * Integrates the complete 13-stage Recommendation Architecture with full backward
+ * compatibility for existing applications, UI components, and tests.
+ */
+
+export * from "./recommendation";
+
 import {
   UserSkillProficiency,
   PathModule,
@@ -56,6 +65,10 @@ export function generateResourceRecommendationReason(
   }
 }
 
+/**
+ * Adaptive Path Adjustment Engine
+ * Runs AFTER assessment to handle real-time performance adjustments.
+ */
 export function triggerAdaptivePathAdjustment(
   failedSkill: string,
   scorePercentage: number,
@@ -69,7 +82,6 @@ export function triggerAdaptivePathAdjustment(
   const isPoorPerformance = scorePercentage < 60;
 
   if (isPoorPerformance) {
-    // Modify Weekly Plan: insert practice tasks and extend focus
     const newTasks: DailyTask[] = [
       {
         id: `adaptive-${Date.now()}-1`,
@@ -115,7 +127,6 @@ export function triggerAdaptivePathAdjustment(
       ],
     };
 
-    // Highlight module in path
     const updatedModules = currentModules.map((m) => {
       if (m.title.toLowerCase().includes(failedSkill.toLowerCase()) || m.id === "mod-3") {
         return {
@@ -140,7 +151,6 @@ export function triggerAdaptivePathAdjustment(
 
     return { updatedModules, updatedWeeklyPlan, recommendation };
   } else {
-    // High score acceleration
     const recommendation: AIRecommendation = {
       id: `rec-${Date.now()}`,
       timestamp: new Date().toISOString(),

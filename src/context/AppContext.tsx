@@ -12,6 +12,7 @@ import {
 } from "@/lib/types";
 import { INITIAL_ML_MODULES, DEMO_ML_ENGINEER_PROFILE } from "@/lib/constants";
 import { triggerAdaptivePathAdjustment } from "@/lib/recommendation-engine";
+import { generatePersonalizedRecommendation, saveRecommendationToStorage } from "@/lib/recommendation";
 import { calculateUnifiedProgress, SystemProgressData } from "@/lib/progress-tracker";
 import {
   supabase,
@@ -356,7 +357,42 @@ export const AppProvider: React.FC<{ children: React.ReactNode }> = ({ children 
   };
 
   const updateProfile = (newProfile: Partial<LearnerProfile>) => {
-    setProfile((prev) => ({ ...prev, ...newProfile }));
+    setProfile((prev) => {
+      const updated = { ...prev, ...newProfile };
+
+      // Generate personalized recommendation path
+      try {
+        const currentSkillsArray = Object.entries(userSkills).map(([name, level]) => ({
+          name,
+          level,
+        }));
+
+        const recResult = generatePersonalizedRecommendation({
+          careerGoal: updated.careerGoal,
+          currentSkills: currentSkillsArray,
+          hoursPerWeek: updated.weeklyHours,
+          targetTimelineMonths: updated.timelineMonths,
+          learningPreference:
+            updated.learningPreference === "visual"
+              ? "visual"
+              : updated.learningPreference === "structured_reading"
+              ? "structured_reading"
+              : "hands_on",
+        });
+
+        if (recResult.modules && recResult.modules.length > 0) {
+          setModules(recResult.modules);
+        }
+        if (recResult.weeklyPlan) {
+          setWeeklyPlan(recResult.weeklyPlan);
+        }
+        saveRecommendationToStorage(recResult);
+      } catch (err) {
+        console.warn("Failed to generate recommendation on profile update:", err);
+      }
+
+      return updated;
+    });
   };
 
   const toggleTaskStatus = (taskId: string) => {
