@@ -40,6 +40,9 @@ export interface AppState {
   completedResources: string[];
   activeAssessmentResult?: { score: number; skill: string; timestamp: string };
   systemProgress: SystemProgressData;
+  theme: "dark" | "light";
+  toggleTheme: () => void;
+  setThemeMode: (mode: "dark" | "light") => void;
   // Actions
   loginWithCredentials: (email: string, pass: string) => Promise<void>;
   signupWithCredentials: (name: string, email: string, pass: string) => Promise<void>;
@@ -256,6 +259,30 @@ export const AppProvider: React.FC<{ children: React.ReactNode }> = ({ children 
   const [achievements, setAchievements] = useState<Achievement[]>(DEFAULT_ACHIEVEMENTS);
   const [completedResources, setCompletedResources] = useState<string[]>(["res-ml-1", "res-ml-2"]);
   const [activeAssessmentResult, setActiveAssessmentResult] = useState<{ score: number; skill: string; timestamp: string }>();
+  const [theme, setThemeState] = useState<"dark" | "light">("dark");
+
+  useEffect(() => {
+    if (typeof window !== "undefined") {
+      const savedTheme = (localStorage.getItem("pathai_theme") as "dark" | "light") || "dark";
+      setThemeState(savedTheme);
+      document.documentElement.classList.remove("dark", "light");
+      document.documentElement.classList.add(savedTheme);
+    }
+  }, []);
+
+  const setThemeMode = (mode: "dark" | "light") => {
+    setThemeState(mode);
+    if (typeof window !== "undefined") {
+      localStorage.setItem("pathai_theme", mode);
+      document.documentElement.classList.remove("dark", "light");
+      document.documentElement.classList.add(mode);
+    }
+  };
+
+  const toggleTheme = () => {
+    const next = theme === "dark" ? "light" : "dark";
+    setThemeMode(next);
+  };
 
   // DYNAMIC UNIFIED PROGRESS CALCULATION (SINGLE SOURCE OF TRUTH)
   const systemProgress = calculateUnifiedProgress(
@@ -478,6 +505,9 @@ export const AppProvider: React.FC<{ children: React.ReactNode }> = ({ children 
         completedResources,
         activeAssessmentResult,
         systemProgress,
+        theme,
+        toggleTheme,
+        setThemeMode,
         loginWithCredentials,
         signupWithCredentials,
         loginWithGoogleOAuth,

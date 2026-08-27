@@ -9,7 +9,7 @@ import { BuddyFloatingWidget } from "@/components/buddy/BuddyFloatingWidget";
 export const AppLayout: React.FC<{ children: React.ReactNode }> = ({ children }) => {
   return (
     <AuthGuard>
-      <div className="flex min-h-screen bg-[#0B0F19] text-slate-100 font-sans antialiased relative">
+      <div className="flex min-h-screen bg-slate-50 dark:bg-[#0B0F19] text-slate-900 dark:text-slate-100 font-sans antialiased relative transition-colors">
         <Sidebar />
         <div className="flex-1 flex flex-col min-w-0">
           <Header />
