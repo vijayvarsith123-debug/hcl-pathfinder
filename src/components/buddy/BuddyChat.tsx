@@ -193,11 +193,11 @@ export const BuddyChat: React.FC = () => {
   ];
 
   return (
-    <div className="space-y-4">
+    <div className="space-y-4 font-sans">
       {/* CHAT CONTAINER */}
-      <Card className="shadow-sm border-slate-200 bg-white flex flex-col h-[580px] overflow-hidden">
+      <Card className="shadow-xs border-slate-200 dark:border-[#273449] bg-white dark:bg-[#172033] flex flex-col h-[580px] overflow-hidden">
         {/* HEADER BAR */}
-        <div className="bg-slate-900 text-white px-4 py-3 flex items-center justify-between border-b border-slate-800">
+        <div className="bg-slate-900 dark:bg-[#0B1220] text-white px-4 py-3 flex items-center justify-between border-b border-slate-800 dark:border-[#273449]">
           <div className="flex items-center gap-3">
             <BuddyAvatar mood={isLoading ? "thinking" : currentMood} size="md" />
             <div>
@@ -214,7 +214,7 @@ export const BuddyChat: React.FC = () => {
           {/* AI USAGE BADGE */}
           <button
             onClick={() => setIsUsagePanelOpen(true)}
-            className="flex items-center gap-1.5 px-2.5 py-1 rounded-full bg-slate-800 hover:bg-slate-700 border border-slate-700 text-xs font-semibold text-slate-200 transition-colors cursor-pointer"
+            className="flex items-center gap-1.5 px-2.5 py-1 rounded-full bg-slate-800 dark:bg-[#1E293B] hover:bg-slate-700 dark:hover:bg-[#273449] border border-slate-700 dark:border-[#273449] text-xs font-semibold text-slate-200 transition-colors cursor-pointer"
             title="Click to view AI daily usage panel"
           >
             <Zap className={`h-3.5 w-3.5 ${usageData.remaining <= 3 ? "text-amber-400" : "text-emerald-400"}`} />
@@ -225,16 +225,16 @@ export const BuddyChat: React.FC = () => {
         </div>
 
         {/* QUICK ACTION PILLS BAR */}
-        <div className="bg-slate-50 px-3 py-2 border-b border-slate-200 flex items-center gap-1.5 overflow-x-auto no-scrollbar">
+        <div className="bg-slate-50 dark:bg-[#111827] px-3 py-2 border-b border-slate-200 dark:border-[#273449] flex items-center gap-1.5 overflow-x-auto no-scrollbar">
           {quickActions.map((act, idx) => {
             const Icon = act.icon;
             return (
               <button
                 key={idx}
                 onClick={() => handleSend(act.prompt)}
-                className="px-2.5 py-1 rounded-md border border-slate-200 bg-white hover:bg-blue-50 hover:border-blue-300 text-xs font-semibold text-slate-700 hover:text-blue-700 transition-all shrink-0 flex items-center gap-1 cursor-pointer shadow-2xs"
+                className="px-2.5 py-1 rounded-xl border border-slate-200 dark:border-[#273449] bg-white dark:bg-[#1E293B] hover:bg-blue-50 dark:hover:bg-blue-950/40 text-xs font-semibold text-slate-700 dark:text-[#CBD5E1] hover:text-blue-600 dark:hover:text-blue-400 transition-all shrink-0 flex items-center gap-1 cursor-pointer shadow-xs"
               >
-                <Icon className="h-3 w-3 text-blue-600" />
+                <Icon className="h-3 w-3 text-blue-600 dark:text-blue-400" />
                 <span>{act.label}</span>
               </button>
             );
@@ -242,7 +242,7 @@ export const BuddyChat: React.FC = () => {
         </div>
 
         {/* MESSAGES FEED */}
-        <CardContent className="flex-1 p-4 overflow-y-auto space-y-4 bg-white">
+        <CardContent className="flex-1 p-4 overflow-y-auto space-y-4 bg-slate-50/50 dark:bg-[#111827]">
           {messages.map((msg) => (
             <div
               key={msg.id}
@@ -258,8 +258,8 @@ export const BuddyChat: React.FC = () => {
                 <div
                   className={`p-3.5 rounded-xl text-xs leading-relaxed ${
                     msg.sender === "user"
-                      ? "bg-blue-600 text-white font-medium shadow-2xs"
-                      : "bg-slate-50 border border-slate-200 text-slate-900"
+                      ? "bg-blue-600 text-white font-semibold shadow-xs"
+                      : "bg-white dark:bg-[#1E293B] border border-slate-200 dark:border-[#273449] text-slate-900 dark:text-[#F8FAFC]"
                   }`}
                 >
                   <p className="whitespace-pre-line">{msg.text}</p>
@@ -268,12 +268,12 @@ export const BuddyChat: React.FC = () => {
                     className={`flex items-center justify-between text-[10px] mt-2 pt-1 border-t ${
                       msg.sender === "user"
                         ? "border-blue-500/40 text-blue-200"
-                        : "border-slate-200/60 text-slate-400"
+                        : "border-slate-100 dark:border-[#273449]/60 text-slate-400 dark:text-[#CBD5E1]"
                     }`}
                   >
                     <span>
                       {msg.sender === "buddy" && (
-                        <span className="font-semibold text-slate-500 capitalize">
+                        <span className="font-semibold text-slate-500 dark:text-[#CBD5E1] capitalize">
                           {msg.source === "rule_based" ? "Rule-Based Engine (0 Quota)" : msg.source === "gemini" ? "Gemini Layer" : "System Limit"}
                         </span>
                       )}
@@ -284,7 +284,7 @@ export const BuddyChat: React.FC = () => {
 
                 {/* CONTEXT CARD (If present) */}
                 {msg.card && (
-                  <div className="p-3 bg-slate-900 text-white rounded-lg border border-slate-800 text-xs shadow-sm">
+                  <div className="p-3 bg-slate-900 dark:bg-[#0B1220] text-white rounded-xl border border-slate-800 dark:border-[#273449] text-xs shadow-xs">
                     <div className="flex items-center justify-between mb-1">
                       <span className="text-[10px] font-extrabold text-blue-400 tracking-wider uppercase">
                         {msg.card.title}
@@ -302,7 +302,7 @@ export const BuddyChat: React.FC = () => {
                       <div className="text-sm font-black text-amber-400 mt-0.5">{msg.card.value}</div>
                     )}
                     {msg.card.actionLabel && msg.card.actionUrl && (
-                      <div className="mt-2 pt-2 border-t border-slate-800">
+                      <div className="mt-2 pt-2 border-t border-slate-800 dark:border-[#273449]">
                         <Link
                           href={msg.card.actionUrl}
                           className="inline-flex items-center gap-1 text-xs font-bold text-blue-400 hover:text-blue-300"
@@ -322,7 +322,7 @@ export const BuddyChat: React.FC = () => {
                       <Button
                         variant="outline"
                         size="sm"
-                        className="h-8 text-xs font-bold border-blue-200 text-blue-700 bg-blue-50/50 hover:bg-blue-100 cursor-pointer"
+                        className="h-8 text-xs font-bold border-blue-200 dark:border-blue-500/30 text-blue-700 dark:text-blue-300 bg-blue-50/50 dark:bg-blue-950/40 hover:bg-blue-100 dark:hover:bg-blue-900/60 cursor-pointer"
                         rightIcon={<ArrowRight className="h-3.5 w-3.5" />}
                       >
                         {msg.action.label}
@@ -333,7 +333,7 @@ export const BuddyChat: React.FC = () => {
               </div>
 
               {msg.sender === "user" && (
-                <div className="h-8 w-8 rounded-lg bg-slate-900 text-white flex items-center justify-center font-bold text-xs shrink-0">
+                <div className="h-8 w-8 rounded-xl bg-blue-600 text-white flex items-center justify-center font-bold text-xs shrink-0 shadow-xs">
                   <User className="h-4 w-4" />
                 </div>
               )}
@@ -341,7 +341,7 @@ export const BuddyChat: React.FC = () => {
           ))}
 
           {isLoading && (
-            <div className="flex gap-3 items-center text-xs text-slate-500 font-medium">
+            <div className="flex gap-3 items-center text-xs text-slate-500 dark:text-[#CBD5E1] font-medium">
               <BuddyAvatar mood="thinking" size="sm" showBadge={false} />
               <span className="animate-pulse">Buddy is routing and processing...</span>
             </div>
@@ -349,7 +349,7 @@ export const BuddyChat: React.FC = () => {
         </CardContent>
 
         {/* INPUT FORM */}
-        <div className="p-3 border-t border-slate-200 bg-slate-50">
+        <div className="p-3 border-t border-slate-200 dark:border-[#273449] bg-white dark:bg-[#172033]">
           <form
             onSubmit={(e) => {
               e.preventDefault();
@@ -362,12 +362,12 @@ export const BuddyChat: React.FC = () => {
               placeholder="Ask Buddy anything about careers, pathways, assignments, or code..."
               value={inputText}
               onChange={(e) => setInputText(e.target.value)}
-              className="flex-1 h-10 px-3.5 rounded-lg border border-slate-300 bg-white text-xs text-slate-900 placeholder:text-slate-400 focus:border-blue-600 focus:outline-none focus:ring-2 focus:ring-blue-500/20"
+              className="flex-1 h-10 px-3.5 rounded-xl border border-slate-200 dark:border-[#273449] bg-slate-50 dark:bg-[#1E293B] text-xs text-slate-900 dark:text-[#F8FAFC] placeholder:text-slate-400 dark:placeholder:text-[#94A3B8] focus:border-blue-600 focus:outline-none focus:ring-2 focus:ring-blue-500/20 transition-all"
             />
             <Button
               type="submit"
               variant="primary"
-              className="h-10 px-4 font-bold bg-blue-600 hover:bg-blue-700"
+              className="h-10 px-4 font-bold bg-blue-600 hover:bg-blue-700 text-white shadow-xs"
               disabled={isLoading || !inputText.trim()}
               rightIcon={<Send className="h-3.5 w-3.5" />}
             >
@@ -383,52 +383,52 @@ export const BuddyChat: React.FC = () => {
         onClose={() => setIsUsagePanelOpen(false)}
         title="Buddy Hybrid Architecture & Quota Info"
       >
-        <div className="space-y-4 py-1 text-slate-900">
-          <div className="p-3 bg-blue-50 rounded-lg border border-blue-200 text-xs text-blue-900">
+        <div className="space-y-4 py-1 text-slate-900 dark:text-[#F8FAFC]">
+          <div className="p-3 bg-blue-50 dark:bg-blue-950/60 rounded-xl border border-blue-200 dark:border-blue-500/30 text-xs text-blue-900 dark:text-blue-200">
             <div className="flex items-center gap-2 font-bold mb-1">
-              <Info className="h-4 w-4 text-blue-600" />
+              <Info className="h-4 w-4 text-blue-600 dark:text-blue-400" />
               <span>Rule-Based Engines vs Gemini AI Layer</span>
             </div>
-            <p className="text-slate-700 leading-relaxed text-[11px]">
+            <p className="text-slate-700 dark:text-[#CBD5E1] leading-relaxed text-[11px]">
               Career matching, pathway roadmaps, progress %, skill gaps, and course recommendations are computed deterministically from PathAI engines and <strong>never consume Gemini quota</strong>. They remain 100% available even if Gemini limit is reached.
             </p>
           </div>
 
           <div className="grid grid-cols-3 gap-3 text-center">
-            <div className="p-3 rounded-lg bg-slate-50 border border-slate-200">
-              <div className="text-slate-400 text-[10px] font-bold uppercase tracking-wider">Used</div>
-              <div className="text-xl font-black text-slate-900 mt-0.5">{usageData.used}</div>
+            <div className="p-3 rounded-xl bg-slate-50 dark:bg-[#1E293B] border border-slate-200 dark:border-[#273449]">
+              <div className="text-slate-500 dark:text-[#CBD5E1] text-[10px] font-bold uppercase tracking-wider">Used</div>
+              <div className="text-xl font-black text-slate-900 dark:text-white mt-0.5">{usageData.used}</div>
             </div>
-            <div className="p-3 rounded-lg bg-slate-50 border border-slate-200">
-              <div className="text-slate-400 text-[10px] font-bold uppercase tracking-wider">Remaining</div>
-              <div className="text-xl font-black text-emerald-600 mt-0.5">{usageData.remaining}</div>
+            <div className="p-3 rounded-xl bg-slate-50 dark:bg-[#1E293B] border border-slate-200 dark:border-[#273449]">
+              <div className="text-slate-500 dark:text-[#CBD5E1] text-[10px] font-bold uppercase tracking-wider">Remaining</div>
+              <div className="text-xl font-black text-emerald-600 dark:text-emerald-400 mt-0.5">{usageData.remaining}</div>
             </div>
-            <div className="p-3 rounded-lg bg-slate-50 border border-slate-200">
-              <div className="text-slate-400 text-[10px] font-bold uppercase tracking-wider">Daily Limit</div>
-              <div className="text-xl font-black text-slate-900 mt-0.5">{usageData.limit}</div>
+            <div className="p-3 rounded-xl bg-slate-50 dark:bg-[#1E293B] border border-slate-200 dark:border-[#273449]">
+              <div className="text-slate-500 dark:text-[#CBD5E1] text-[10px] font-bold uppercase tracking-wider">Daily Limit</div>
+              <div className="text-xl font-black text-slate-900 dark:text-white mt-0.5">{usageData.limit}</div>
             </div>
           </div>
 
           {/* Breakdown */}
-          <div className="space-y-2 pt-2 border-t border-slate-100">
-            <h4 className="text-xs font-bold text-slate-900">Today&apos;s Gemini Requests Breakdown</h4>
-            <div className="space-y-1.5 text-xs text-slate-700">
-              <div className="flex justify-between p-2 rounded bg-slate-50 border border-slate-100">
+          <div className="space-y-2 pt-2 border-t border-slate-100 dark:border-[#273449]">
+            <h4 className="text-xs font-bold text-slate-900 dark:text-white">Today&apos;s Gemini Requests Breakdown</h4>
+            <div className="space-y-1.5 text-xs text-slate-700 dark:text-[#CBD5E1]">
+              <div className="flex justify-between p-2 rounded-xl bg-slate-50 dark:bg-[#1E293B] border border-slate-100 dark:border-[#273449]">
                 <span>Concept Explanations</span>
-                <span className="font-bold text-slate-900">{usageData.breakdown?.explanations || 0}</span>
+                <span className="font-bold text-slate-900 dark:text-white">{usageData.breakdown?.explanations || 0}</span>
               </div>
-              <div className="flex justify-between p-2 rounded bg-slate-50 border border-slate-100">
+              <div className="flex justify-between p-2 rounded-xl bg-slate-50 dark:bg-[#1E293B] border border-slate-100 dark:border-[#273449]">
                 <span>Assignment Guidance</span>
-                <span className="font-bold text-slate-900">{usageData.breakdown?.assignments || 0}</span>
+                <span className="font-bold text-slate-900 dark:text-white">{usageData.breakdown?.assignments || 0}</span>
               </div>
-              <div className="flex justify-between p-2 rounded bg-slate-50 border border-slate-100">
+              <div className="flex justify-between p-2 rounded-xl bg-slate-50 dark:bg-[#1E293B] border border-slate-100 dark:border-[#273449]">
                 <span>Code Debugging</span>
-                <span className="font-bold text-slate-900">{usageData.breakdown?.debugging || 0}</span>
+                <span className="font-bold text-slate-900 dark:text-white">{usageData.breakdown?.debugging || 0}</span>
               </div>
             </div>
           </div>
 
-          <div className="flex items-center justify-between text-xs text-slate-500 pt-2 border-t border-slate-100">
+          <div className="flex items-center justify-between text-xs text-slate-500 dark:text-[#CBD5E1] pt-2 border-t border-slate-100 dark:border-[#273449]">
             <div className="flex items-center gap-1.5">
               <Clock className="h-3.5 w-3.5 text-slate-400" />
               <span>Resets daily at <strong>{usageData.resetAt}</strong></span>
@@ -437,7 +437,7 @@ export const BuddyChat: React.FC = () => {
               variant="outline"
               size="sm"
               onClick={() => setIsUsagePanelOpen(false)}
-              className="h-8 text-xs"
+              className="h-8 text-xs font-bold"
             >
               Close
             </Button>

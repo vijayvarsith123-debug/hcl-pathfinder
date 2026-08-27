@@ -167,13 +167,26 @@ export function classifyBuddyIntent(message: string): {
     return { isRuleBased: true, intent: "PROGRESS" };
   }
 
-  // 4. Skill Gap Questions
+  // 4. Weak Topic / Subtopic Mastery / Adaptive Engine Questions
+  if (
+    p.includes("weak topic") ||
+    p.includes("weak subtopic") ||
+    p.includes("weak area") ||
+    p.includes("weakest subtopic") ||
+    p.includes("needs attention") ||
+    p.includes("subtopic mastery") ||
+    p.includes("mastery status") ||
+    p.includes("where am i struggling") ||
+    p.includes("what am i weak") ||
+    p.includes("lowest score")
+  ) {
+    return { isRuleBased: true, intent: "SKILL_GAP" };
+  }
+
+  // 5. Skill Gap Questions (legacy)
   if (
     p.includes("weakest skill") ||
-    p.includes("weak area") ||
-    p.includes("skill gap") ||
-    p.includes("where am i struggling") ||
-    p.includes("lowest score")
+    p.includes("skill gap")
   ) {
     return { isRuleBased: true, intent: "SKILL_GAP" };
   }
@@ -286,25 +299,32 @@ export function executeRuleBasedEngine(
     }
 
     case "SKILL_GAP": {
-      const skillEntries = Object.entries(userSkills).map(([skill, score]) => ({ skill, score }));
-      skillEntries.sort((a, b) => (a.score as number) - (b.score as number));
-      const weakest = skillEntries[0] || { skill: "Statistics", score: 32 };
-      const statusTag = (weakest.score as number) < 60 ? "Weak" : (weakest.score as number) < 80 ? "Developing" : "Mastered";
+      // Import adaptive subtopic mastery data for contextual response
+      const { INITIAL_SUBTOPIC_MASTERY } = require("@/lib/adaptive/mastery-tracker");
+      const weakSubtopics = INITIAL_SUBTOPIC_MASTERY.filter((s: any) => s.status === "Weak");
+      const masteredSubtopics = INITIAL_SUBTOPIC_MASTERY.filter((s: any) => s.status === "Mastered");
+
+      const weakList = weakSubtopics.length > 0
+        ? weakSubtopics.map((s: any) => `${s.subtopicName} (${s.masteryScore}%)`).join(", ")
+        : "None detected";
+      const masteredList = masteredSubtopics.length > 0
+        ? masteredSubtopics.map((s: any) => `${s.subtopicName} (${s.masteryScore}%)`).join(", ")
+        : "None yet";
 
       return {
-        message: `${weakest.skill} is currently your weakest skill at ${weakest.score}% (${statusTag}). Target proficiency is 70%. Practice this before advancing.`,
+        message: `**Subtopic Mastery Analysis:**\n\n🔴 **Needs Attention:** ${weakList}\n\n🟢 **Mastered:** ${masteredList}\n\nYour next assessment will include additional targeted questions for weak subtopics. Optional support resources are available on the Progress page.`,
         mood: "focused",
         action: {
-          label: `Practice ${weakest.skill}`,
-          type: "practice",
-          url: "/assessments",
+          label: "View Subtopic Mastery",
+          type: "path",
+          url: "/progress",
         },
         card: {
-          title: "SKILL GAP DETECTED",
-          subtitle: weakest.skill,
-          value: `${weakest.score}% Proficiency`,
-          tag: statusTag,
-          actionLabel: "Take Assessment",
+          title: "ADAPTIVE MASTERY STATUS",
+          subtitle: `${weakSubtopics.length} weak subtopic${weakSubtopics.length !== 1 ? "s" : ""} detected`,
+          value: weakSubtopics.length > 0 ? `${weakSubtopics[0].subtopicName}: ${weakSubtopics[0].masteryScore}%` : "All developing",
+          tag: weakSubtopics.length > 0 ? "Needs Attention" : "On Track",
+          actionLabel: "Targeted Assessment",
           actionUrl: "/assessments",
         },
       };

@@ -48,7 +48,7 @@ function LoginFormContent() {
   };
 
   return (
-    <Card className="shadow-lg border-slate-200 bg-white">
+    <Card className="shadow-lg border-slate-200 dark:border-[#273449] bg-white dark:bg-[#172033]">
       <CardContent className="pt-6 space-y-6">
         {error && <Alert variant="error">{error}</Alert>}
 
@@ -65,8 +65,8 @@ function LoginFormContent() {
 
           <div>
             <div className="flex justify-between items-center mb-1">
-              <label className="block text-xs font-semibold text-slate-800">Password</label>
-              <Link href="/forgot-password" className="text-xs font-semibold text-blue-600 hover:underline">
+              <label className="block text-xs font-bold text-slate-800 dark:text-[#F8FAFC]">Password</label>
+              <Link href="/forgot-password" className="text-xs font-semibold text-blue-600 dark:text-blue-400 hover:underline">
                 Forgot password?
               </Link>
             </div>
@@ -83,7 +83,7 @@ function LoginFormContent() {
           <Button
             type="submit"
             variant="primary"
-            className="w-full h-11 text-sm font-semibold"
+            className="w-full h-11 text-xs font-bold bg-blue-600 hover:bg-blue-700 text-white shadow-xs"
             isLoading={isLoading}
             rightIcon={<ArrowRight className="h-4 w-4" />}
           >
@@ -93,10 +93,10 @@ function LoginFormContent() {
 
         <div className="relative my-4">
           <div className="absolute inset-0 flex items-center">
-            <div className="w-full border-t border-slate-200" />
+            <div className="w-full border-t border-slate-200 dark:border-[#273449]" />
           </div>
-          <div className="relative flex justify-center text-xs uppercase">
-            <span className="bg-white px-2 text-slate-500 font-medium">Or continue with</span>
+          <div className="relative flex justify-center text-[11px] uppercase">
+            <span className="bg-white dark:bg-[#172033] px-3 text-slate-500 dark:text-[#CBD5E1] font-semibold">Or continue with</span>
           </div>
         </div>
 
@@ -104,7 +104,7 @@ function LoginFormContent() {
           type="button"
           variant="outline"
           onClick={handleGoogleLogin}
-          className="w-full h-11 text-xs font-semibold gap-2 border-slate-300 hover:bg-slate-50"
+          className="w-full h-11 text-xs font-bold gap-2 border-slate-200 dark:border-[#273449] bg-white dark:bg-[#1E293B] text-slate-800 dark:text-[#F8FAFC] hover:bg-slate-50 dark:hover:bg-[#273449]"
         >
           <svg className="h-4 w-4" viewBox="0 0 24 24">
             <path
@@ -136,7 +136,7 @@ function LoginFormContent() {
               await loginWithCredentials("vijay.kumar@example.com", "password123");
               router.push(redirectTo);
             }}
-            className="w-full h-11 text-xs font-bold bg-blue-50 text-blue-700 border border-blue-200 hover:bg-blue-100"
+            className="w-full h-11 text-xs font-bold bg-blue-50 dark:bg-blue-950/60 text-blue-700 dark:text-blue-300 border border-blue-200 dark:border-blue-500/30 hover:bg-blue-100 dark:hover:bg-blue-900/60"
           >
             Instant Demo Access (Machine Learning Track) →
           </Button>
@@ -148,27 +148,27 @@ function LoginFormContent() {
 
 export default function LoginPage() {
   return (
-    <div className="min-h-screen bg-slate-50 flex flex-col justify-center py-12 sm:px-6 lg:px-8 font-sans">
+    <div className="min-h-screen bg-slate-50 dark:bg-[#0B1220] flex flex-col justify-center py-12 sm:px-6 lg:px-8 font-sans transition-colors">
       <div className="sm:mx-auto sm:w-full sm:max-w-md text-center">
         <Link href="/" className="inline-flex items-center gap-2.5 mb-4">
-          <div className="h-10 w-10 rounded-xl bg-blue-600 flex items-center justify-center text-white font-bold shadow-sm">
+          <div className="h-10 w-10 rounded-xl bg-blue-600 flex items-center justify-center text-white font-bold shadow-xs">
             <Compass className="h-6 w-6" />
           </div>
-          <span className="text-2xl font-bold tracking-tight text-slate-900">
-            Path<span className="text-blue-600">AI</span>
+          <span className="text-2xl font-extrabold tracking-tight text-slate-900 dark:text-white">
+            Path<span className="text-blue-600 dark:text-blue-400">AI</span>
           </span>
         </Link>
-        <h2 className="text-2xl font-extrabold text-slate-900 tracking-tight">Sign in to your account</h2>
-        <p className="mt-1 text-xs text-slate-500">
+        <h2 className="text-2xl font-extrabold text-slate-900 dark:text-white tracking-tight">Sign in to your account</h2>
+        <p className="mt-1 text-xs text-slate-600 dark:text-[#CBD5E1]">
           Or{" "}
-          <Link href="/signup" className="font-semibold text-blue-600 hover:underline">
+          <Link href="/signup" className="font-bold text-blue-600 dark:text-blue-400 hover:underline">
             start your onboarding journey
           </Link>
         </p>
       </div>
 
       <div className="mt-6 sm:mx-auto sm:w-full sm:max-w-md px-4">
-        <Suspense fallback={<div className="h-64 rounded-xl bg-white animate-pulse" />}>
+        <Suspense fallback={<div className="h-64 rounded-xl bg-white dark:bg-[#172033] animate-pulse" />}>
           <LoginFormContent />
         </Suspense>
       </div>

@@ -86,6 +86,20 @@ export async function POST(req: Request) {
     let geminiMessage = "";
     let mood: any = intent === "CODE_HELP" ? "thinking" : intent === "ASSIGNMENT" ? "focused" : "explaining";
 
+    // Build adaptive mastery context for LLM
+    let adaptiveMasteryContext = "";
+    try {
+      const { INITIAL_SUBTOPIC_MASTERY } = require("@/lib/adaptive/mastery-tracker");
+      const weakSubs = INITIAL_SUBTOPIC_MASTERY.filter((s: any) => s.status === "Weak");
+      if (weakSubs.length > 0) {
+        adaptiveMasteryContext = `\n\nLEARNER MASTERY CONTEXT (from Adaptive Engine):
+${weakSubs.map((s: any) => `- ${s.subtopicName}: ${s.masteryScore}% (Weak, trend: ${s.trend})`).join("\n")}
+Use this context to provide more targeted explanations when the learner asks about these weak topics.`;
+      }
+    } catch {
+      // Adaptive mastery data unavailable — continue without it
+    }
+
     const systemPrompt = `You are Buddy, an AI Learning Assistant for PathAI.
 
 Your job is to help the learner understand and solve educational problems accurately.
@@ -98,7 +112,7 @@ RULES FOR RESPONSE:
 5. For assignment problems, break down reasoning step-by-step cleanly.
 6. For technical code errors, use format: Problem -> Cause -> Fix.
 7. Keep creativity very low (temperature: 0.1). Avoid unnecessary jokes, stories, and excessive motivational text.
-8. Use simple language appropriate for the learner.`;
+8. Use simple language appropriate for the learner.${adaptiveMasteryContext}`;
 
     if (apiKey && apiKey !== "your_gemini_api_key_here") {
       try {

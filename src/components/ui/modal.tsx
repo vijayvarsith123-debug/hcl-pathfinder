@@ -47,7 +47,7 @@ export const Modal: React.FC<ModalProps> = ({
   };
 
   return (
-    <div className="fixed inset-0 z-50 flex items-center justify-center p-4 bg-slate-900/40 backdrop-blur-xs animate-in fade-in duration-200">
+    <div className="fixed inset-0 z-50 flex items-center justify-center p-4 bg-slate-950/60 backdrop-blur-xs animate-in fade-in duration-200 font-sans">
       <div
         className="fixed inset-0"
         onClick={onClose}
@@ -55,20 +55,20 @@ export const Modal: React.FC<ModalProps> = ({
       />
       <div
         className={cn(
-          "relative z-10 w-full rounded-xl bg-white border border-slate-200 p-6 shadow-xl animate-in zoom-in-95 duration-200",
+          "relative z-10 w-full rounded-2xl bg-white dark:bg-[#172033] border border-slate-200 dark:border-[#273449] p-6 shadow-xl animate-in zoom-in-95 duration-200 text-slate-900 dark:text-[#F8FAFC]",
           widthClasses[maxWidth]
         )}
       >
-        <div className="flex items-start justify-between pb-4 border-b border-slate-100">
+        <div className="flex items-start justify-between pb-4 border-b border-slate-100 dark:border-[#273449]/60">
           <div>
-            {title && <h3 className="text-lg font-semibold text-slate-900">{title}</h3>}
-            {description && <p className="text-sm text-slate-500 mt-0.5">{description}</p>}
+            {title && <h3 className="text-lg font-extrabold text-slate-900 dark:text-white">{title}</h3>}
+            {description && <p className="text-xs text-slate-600 dark:text-[#CBD5E1] mt-0.5">{description}</p>}
           </div>
           <Button
             variant="ghost"
             size="sm"
             onClick={onClose}
-            className="h-8 w-8 p-0 text-slate-400 hover:text-slate-600 rounded-full"
+            className="h-8 w-8 p-0 text-slate-400 hover:text-slate-600 dark:hover:text-white rounded-full"
           >
             <X className="h-4 w-4" />
           </Button>
@@ -76,7 +76,7 @@ export const Modal: React.FC<ModalProps> = ({
 
         <div className="py-4">{children}</div>
 
-        {footer && <div className="pt-4 border-t border-slate-100 flex justify-end gap-2">{footer}</div>}
+        {footer && <div className="pt-4 border-t border-slate-100 dark:border-[#273449]/60 flex justify-end gap-2">{footer}</div>}
       </div>
     </div>
   );
